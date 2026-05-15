@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "薛朝阳"
+title: "薛朝阳 博士"
 permalink: /chinese/
 author_profile: true
 ---
