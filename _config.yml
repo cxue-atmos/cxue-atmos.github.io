@@ -23,7 +23,7 @@ repository               : "cxue-atmos/cxue-atmos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dr. Chaoyang Xue"
   pronouns         : # example: "she/her"  
   bio              : "Atmospheric chemist working on biosphere-atmosphere exchange and its interaction with air quality and climate change"
