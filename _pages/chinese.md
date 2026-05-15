@@ -39,6 +39,14 @@ author_profile: true
  - 编辑：Air Quality, Atmosphere & Health, Frontiers in Enviromental Science
  - 审稿：Nature Sustainibility, Science Advance, npj Climate and Atmospheric Science, Enviromental Science and Technology, Journal of Geophysical Research Atmospheres,  Atmospheric Chemistry and Physics, Atmospheric Environment, Environmental Science and Technology Letters, Journal of Environmental Science
 
+# 招生
+
+- 大气科学
+- 环境科学与工程
+- 化学
+- 农学
+- 等
+
 # 联系方式
 
 Email: ch.xue@mppic.de
