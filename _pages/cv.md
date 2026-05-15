@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "CV"
+title: "Dr. Chaoyang Xue"
 permalink: /cv/
 author_profile: true
 ---
 
-# Dr. Chaoyang Xue
+#Dr. Chaoyang Xue
 
 Marie Curie Research Fellow  
 Max Planck Institute for Chemistry, Mainz, Germany
