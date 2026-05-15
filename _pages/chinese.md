@@ -39,6 +39,15 @@ author_profile: true
  - 编辑：Air Quality, Atmosphere & Health, Frontiers in Enviromental Science
  - 审稿：Nature Sustainibility, Science Advance, npj Climate and Atmospheric Science, Enviromental Science and Technology, Journal of Geophysical Research Atmospheres,  Atmospheric Chemistry and Physics, Atmospheric Environment, Environmental Science and Technology Letters, Journal of Environmental Science
 
+# 国际合作网络
+
+- 德国马普学会
+- 德国对流层研究所
+- 法国国家科学研究中心
+- 美国德州农工大学
+- 奥地利格拉茨大学
+- 摩洛哥穆罕默德六世理工大学
+
 # 招生
 
 - 大气科学
