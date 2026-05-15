@@ -33,7 +33,7 @@ author_profile: true
 - 洪堡学者
 - 玛丽居里学者
 
- # 学术任职
+# 学术任职
 
  - 青年编委：Environmental Science & Technology, Science Bulletin, Eco-Enviroment & Health
  - 编辑：Air Quality, Atmosphere & Health, Frontiers in Enviromental Science
