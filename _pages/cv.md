@@ -18,9 +18,7 @@ Google Scholar: https://scholar.google.com/citations?user=PS_CX0AAAAAJ
 # Research Interests
 
 - Biosphere-atmosphere interactions
-- Atmospheric chemistry
-- HONO chemistry
-- Trace gas exchange
+- Reactive nitrogen chemistry
 - Atmospheric oxidation processes
 - Air quality and climate change
 - Instrument development and field observations
@@ -72,11 +70,11 @@ China University of Petroleum, Beijing
 
 ---
 
-# Selected Funding
+# Selected Funding and Awards
 
-- Horizon Europe Marie Skłodowska-Curie Actions (~220,000 €)
-- Alexander von Humboldt Fellowship (~100,000 €)
-- Labex-Voltaire Fellowship (~80,000 €)
+- Horizon Europe Marie Skłodowska-Curie Actions
+- Alexander von Humboldt Fellowship 
+- Labex-Voltaire Fellowship
 
 ---
 
@@ -108,45 +106,9 @@ China University of Petroleum, Beijing
 - LPC2E-CNRS, France (2024)
 - Europe-China Eco-Environmental Forum (2022)
 
----
-
-# Professional Activities
-
-## Associate Editor
-- Frontiers in Environmental Science
-- Air Quality, Atmosphere and Health
-
-## Reviewer for
-
-- Atmospheric Chemistry and Physics
-- Environmental Research Letters
-- Atmospheric Environment
-- Environmental Pollution
-- Science of The Total Environment
 
 ---
 
-# Publications
-
-> 1300+ citations on Google Scholar
-
-Selected publications:
-
-1. Xue, C.* et al. Environmental Science & Technology, 2024  
-   Reducing Soil-Emitted Nitrous Acid as a Feasible Strategy for Tackling Ozone Pollution
-
-2. Xue, C.* et al. Atmospheric Chemistry and Physics, 2022  
-   HONO formation and its role in the oxidizing capacity of the upper boundary layer
-
-3. Xue, C.* et al. ACS Earth and Space Chemistry, 2021  
-   Strong HONO Emission from Fertilized Agricultural Fields
-
-4. Xue, C.* Environmental Science & Technology, 2022  
-   Current Achievements and Future Directions of HONO Chemistry in China
-
-For full publication list, please visit Google Scholar.
-
----
 
 # Opportunities
 
