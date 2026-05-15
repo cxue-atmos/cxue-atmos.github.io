@@ -48,6 +48,13 @@ author_profile: true
 - 奥地利格拉茨大学
 - 摩洛哥穆罕默德六世理工大学
 
+# 国际研究平台
+
+-科考船 S/Y Eugen Seibold，https://www.mpic.de/4224334/sy-eugen-seibold
+-科考船 R/V Meteor，https://www.ldf.uni-hamburg.de/en/meteor.html 
+-亚马逊观测塔ATTO，https://www.attoproject.org/
+-中科院农村环境研究站
+
 # 招生
 
 - 大气科学
