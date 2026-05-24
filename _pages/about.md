@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
-I am an atmospheric chemist working at the Max Planck Institute for Chemistry.
 
 # About Me
 
