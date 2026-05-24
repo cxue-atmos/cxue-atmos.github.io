@@ -50,13 +50,32 @@ Exploring how reactive nitrogen and trace gases influence ozone pollution and cl
 
 ---
 
-## Involvd Projects
+# Selected Research Platforms and Field Campaigns
 
-### Research Vessel: S/Y Eugen Seibold，https://www.mpic.de/4224334/sy-eugen-seibold
-### Research Vessel: R/V Meteor，https://www.ldf.uni-hamburg.de/en/meteor.html
-### Amazon Tall Tower Observatory: ATTO，https://www.attoproject.org/
-### CAS Rural Environment Research Station
-### Atmospheric ChemistRy Of the Suburban foreSt: ACROSS, https://across.cnrs.fr/ 
+## Research Vessels
+
+### S/Y Eugen Seibold
+Research sailing vessel of the Max Planck Institute for Chemistry  
+https://www.mpic.de/4224334/sy-eugen-seibold
+
+### R/V Meteor
+German research vessel for ocean and atmospheric sciences  
+https://www.ldf.uni-hamburg.de/en/meteor.html
+
+---
+
+## Atmospheric Observation Sites
+
+### Amazon Tall Tower Observatory (ATTO)
+Long-term Amazon rainforest atmosphere-biosphere observatory  
+https://www.attoproject.org/
+
+### Chinese Academy of Sciences Rural Environment Research Station
+North China Plain atmospheric and agricultural observation platform
+
+### ACROSS Forest Atmospheric Chemistry Campaign
+Suburban temperate forest atmospheric chemistry observations in France  
+https://across.cnrs.fr/
 
 ---
 
