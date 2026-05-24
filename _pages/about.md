@@ -1,7 +1,13 @@
 ---
 layout: single
 author_profile: true
+permalink: /
+title: "About"
 ---
+
+# About Me
+
+I am an atmospheric chemist working at the Max Planck Institute for Chemistry.
 
 # About Me
 
