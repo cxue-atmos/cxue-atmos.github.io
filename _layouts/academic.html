@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="{{ page.initial_language | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | escape }} | {{ site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ '/images/profile.jpg' | absolute_url }}">
+  <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=20261009">
+</head>
+<body data-route="{{ page.site_route }}" data-language="{{ page.initial_language | default: 'en' }}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="masthead"><div class="container"><div class="masthead-inner">
+    <a href="/" class="wordmark">Prof. Dr. Chaoyang Xue</a>
+    <nav class="nav" aria-label="Main navigation">
+      <a href="/" data-route="home">About</a><a href="/research/" data-route="research">Research</a><a href="/publications/" data-route="publications">Publications</a><a href="/cv/" data-route="cv">CV</a>
+      <button type="button" id="language" class="lang" hidden aria-label="Switch to Chinese">中文</button>
+    </nav>
+  </div></div></header>
+  <div class="container"><div class="shell">
+    <aside class="profile" aria-label="Researcher profile">
+      <img class="portrait" src="https://cxue-atmos.github.io/images/profile.jpg" alt="Chaoyang Xue" width="160" height="176">
+      <h2 class="profile-name">Prof. Dr. Chaoyang Xue</h2><div class="name-cn">薛朝阳</div>
+      <p class="position"><strong id="position">Professor</strong></p><p class="position" id="affiliation">Institute of Atmospheric Physics<br>Chinese Academy of Sciences</p><p class="location" id="location">Beijing, China</p>
+      <div class="profile-links">
+        <a class="email-link" href="mailto:xuechaoyang@mail.iap.ac.cn"><svg class="icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect x="2" y="4" width="16" height="12" rx="1"/><path d="m2 5 8 6 8-6"/></svg><span>xuechaoyang@mail.iap.ac.cn</span></a>
+        <a href="https://scholar.google.com/citations?user=4gpjPbgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><svg class="icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><path d="m1 7 9-4 9 4-9 4-9-4Zm4 2v5c3 3 7 3 10 0V9M18 8v7"/></svg>Google Scholar ↗</a>
+        <a href="https://orcid.org/0000-0001-6673-7716" target="_blank" rel="noopener noreferrer"><svg class="icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="10" cy="10" r="8"/><path d="M7 8v6m0-8v.1M10 7h2a3.5 3.5 0 0 1 0 7h-2Z"/></svg>ORCID ↗</a>
+        <a href="https://www.researchgate.net/profile/Chaoyang-Xue-5" target="_blank" rel="noopener noreferrer"><svg class="icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><path d="M5 16V4h5a3 3 0 0 1 0 6H5m4 0 5 6"/></svg>ResearchGate ↗</a>
+      </div><p class="profile-note">OBSERVATIONS<br>EXPERIMENTS<br>ATMOSPHERIC MODELING</p>
+    </aside>
+    <main id="main" tabindex="-1">{{ content }}</main>
+  </div></div>
+  <footer class="footer"><div class="container footer-inner"><span>© 2026 Chaoyang Xue · 薛朝阳</span><span id="footer-affiliation">Institute of Atmospheric Physics, Chinese Academy of Sciences</span></div></footer>
+  <script src="{{ '/assets/js/academic.js' | relative_url }}?v=20261009" defer></script>
+</body>
+</html>

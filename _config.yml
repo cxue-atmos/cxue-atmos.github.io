@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Chaoyang Xue"
+title                    : "Prof. Dr. Chaoyang Xue"
 title_separator          : "-"
-name                     : &name "Dr. Chaoyang Xue"
+name                     : &name "Prof. Dr. Chaoyang Xue"
 description              : &description "Atmospheric Chemistry | Reactive Nitrogen | Biosphere-Atmosphere Exchange"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://cxue-atmos.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,13 +24,13 @@ repository               : "cxue-atmos/cxue-atmos.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dr. Chaoyang Xue"
+  name             : "Prof. Dr. Chaoyang Xue"
   pronouns         : # example: "she/her"  
   bio              : "Atmospheric chemist working on biosphere-atmosphere exchange and its interaction with air quality and climate change"
-  location         : "Mainz, Germany"
-  employer         : "Max Planck Institute for Chemistry"
-  uri              : "https://www.mpic.de/person/127404/5587552"
-  email            : "ch.xue@mpic.de" 
+  location         : "Beijing, China"
+  employer         : "Institute of Atmospheric Physics, Chinese Academy of Sciences"
+  uri              : "https://cxue-atmos.github.io"
+  email            : "xuechaoyang@mail.iap.ac.cn" 
 
   #Academic websites
   #academia         : # URL

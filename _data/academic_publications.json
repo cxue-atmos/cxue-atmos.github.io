@@ -1,0 +1,2256 @@
+[
+  {
+    "doi": "10.5194/acp-26-5313-2026",
+    "title": "Impacts of summertime photochemical aging on the physicochemical properties of aerosols in a Paris suburban forest region",
+    "year": 2026,
+    "publicationDateParts": [
+      2026,
+      4,
+      21
+    ],
+    "authors": [
+      "Chenjie Yu",
+      "Paola Formenti",
+      "Joel F. de Brito",
+      "Astrid Bauville",
+      "Antonin Bergé",
+      "Hichem Bouzidi",
+      "Mathieu Cazaunau",
+      "Manuela Cirtog",
+      "Claudia Di Biagio",
+      "Ludovico Di Antonio",
+      "Cécile Gaimoz",
+      "Franck Maisonneuve",
+      "Pascal Zapf",
+      "Tobias Seubert",
+      "Simone T. Andersen",
+      "Patrick Dewald",
+      "Gunther N. T. E. Türk",
+      "John N. Crowley",
+      "Alexandre Kukui",
+      "Chaoyang Xue",
+      "Cyrielle Denjean",
+      "Olivier Garrouste",
+      "Jean-Claude Etienne",
+      "Huihui Wu",
+      "James D. Allan",
+      "Dantong Liu",
+      "Yangzhou Wu",
+      "Christopher Cantrell",
+      "Vincent Michoud"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "26",
+    "pages": "5313-5332",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.5c17068",
+    "title": "Remarkable Overestimation of Soil N₂O Emission by Using Static Chambers",
+    "year": 2026,
+    "publicationDateParts": [
+      2026,
+      3,
+      12
+    ],
+    "authors": [
+      "Yining Hu",
+      "Yuanyuan Zhang",
+      "Yifei Song",
+      "Yujing Mu",
+      "Minhang Tan",
+      "Chenglong Zhang",
+      "Chaoyang Xue",
+      "Pengfei Liu",
+      "Chengtang Liu",
+      "Junfeng Liu",
+      "Liwei Guan",
+      "Huayong Zhang"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "60",
+    "pages": "8671-8680",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.6c01723",
+    "title": "Changing Emissions and Atmospheric Chemistry: Ongoing Impacts on Air Quality and Climate",
+    "year": 2026,
+    "publicationDateParts": [
+      2026,
+      3,
+      3
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Jonathan Abbatt",
+      "Hendryk Czech",
+      "Kevin Jones",
+      "Imad El-Haddad"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "60",
+    "pages": "5910-5920",
+    "kind": "viewpoint",
+    "roles": [
+      "第一作者",
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "讨论排放控制与能源转型如何改变二次气溶胶、活性氮和持久性污染物的环境过程。",
+      "提出连接排放变化、大气化学与环境暴露的研究重点，支撑空气质量和气候的协同评估。"
+    ],
+    "en": [
+      "We examine how emission controls and the energy transition reshape secondary aerosols, reactive nitrogen, and persistent pollutants.",
+      "We identify research priorities connecting changing emissions, atmospheric chemistry, and exposure to inform air-quality and climate assessments."
+    ]
+  },
+  {
+    "doi": "10.1029/2025jd045346",
+    "title": "Black Carbon in the Marine Atmosphere: Concentration and Mixing State From Coastal to Remote Atlantic Regions",
+    "year": 2026,
+    "publicationDateParts": [
+      2026,
+      2,
+      16
+    ],
+    "authors": [
+      "Xihao Pan",
+      "Yuxuan Zhang",
+      "Chaoyang Xue",
+      "Uwe Kuhn",
+      "Isabella Hrabe de Angelis",
+      "Christopher Pöhlker",
+      "Jeannine Ditas",
+      "Lena Heins",
+      "Hedy M. Aardema",
+      "Hans A. Slagter",
+      "Maria Ll. Calleja",
+      "Antonis Dragoneas",
+      "David Walter",
+      "Björn Nillius",
+      "Qiaoqiao Wang",
+      "Nan Ma",
+      "Hang Su",
+      "Ulrich Pöschl",
+      "Gerald H. Haug",
+      "Ralf Schiebel",
+      "Yafang Cheng"
+    ],
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "volume": "131",
+    "pages": "e2025JD045346",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1029/2025jd043667",
+    "title": "HONO Emission From Rice Paddies and its Impact on Atmospheric HONO Budget",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      9,
+      28
+    ],
+    "authors": [
+      "Min Zhou",
+      "Hongli Wang",
+      "Guo Li",
+      "Chaoyang Xue",
+      "Xiaoyong Qian",
+      "Fengxia Bao",
+      "Jiacheng Zeng",
+      "Wenling Liao",
+      "Yuhang Wu",
+      "Xiang Ding",
+      "Saiwei Zhang",
+      "Jingyu An",
+      "Chenyang Du",
+      "Shengrong Lou",
+      "Shengao Jing",
+      "Dan Dan Huang",
+      "Cheng Huang",
+      "Qingyan Fu",
+      "Yafang Cheng",
+      "Hang Su"
+    ],
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "volume": "130",
+    "pages": "e2025JD043667",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.atmosenv.2025.121273",
+    "title": "A twin site study of size-resolved composition, source apportionment and health impacts of aerosol particles in Morocco",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      8
+    ],
+    "authors": [
+      "Nabil Deabji",
+      "Khanneh Wadinga Fomba",
+      "Laurent Poulain",
+      "Chaoyang Xue",
+      "Abdelwahid Mellouki",
+      "Hartmut Herrmann"
+    ],
+    "journal": "Atmospheric Environment",
+    "volume": "355",
+    "pages": "121273",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.envpol.2025.126488",
+    "title": "Evaluating the contribution of residential coal combustion to atmospheric nitrous acid (HONO) in winter",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      8
+    ],
+    "authors": [
+      "Yang Wang",
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Chaoyang Xue",
+      "Xiaoxi Zhao",
+      "Shuang Fu",
+      "Zichen Wu",
+      "Yifei Song",
+      "Yuzheng Wang",
+      "Chengtang Liu",
+      "Yujing Mu"
+    ],
+    "journal": "Environmental Pollution",
+    "volume": "378",
+    "pages": "126488",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-25-6991-2025",
+    "title": "Understanding summertime H₂O₂ chemistry in the North China Plain through observations and modeling studies",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      7,
+      8
+    ],
+    "authors": [
+      "Can Ye",
+      "Pengfei Liu",
+      "Chaoyang Xue",
+      "Chenglong Zhang",
+      "Zhuobiao Ma",
+      "Chengtang Liu",
+      "Junfeng Liu",
+      "Keding Lu",
+      "Yujing Mu",
+      "Yuanhang Zhang"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "25",
+    "pages": "6991-7005",
+    "kind": "research",
+    "roles": [
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "结合华北农村夏季观测与箱式模型，量化 H₂O₂ 的生成和损失过程。",
+      "颗粒物摄取是关键损失途径；纳入该过程可改善模型高估，并帮助理解多污染物减排的化学响应。"
+    ],
+    "en": [
+      "We combine summer observations and box modeling to quantify H₂O₂ production and loss in rural North China.",
+      "Particle uptake is a major sink; including it improves model agreement and clarifies oxidant responses to emission reductions."
+    ]
+  },
+  {
+    "doi": "10.5194/acp-25-5893-2025",
+    "title": "Short-lived organic nitrates in a suburban temperate forest: an indication of efficient assimilation of reactive nitrogen by the biosphere?",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      6,
+      12
+    ],
+    "authors": [
+      "Simone T. Andersen",
+      "Rolf Sander",
+      "Patrick Dewald",
+      "Laura Wüst",
+      "Tobias Seubert",
+      "Gunther N. T. E. Türk",
+      "Jan Schuladen",
+      "Max R. McGillen",
+      "Chaoyang Xue",
+      "Abdelwahid Mellouki",
+      "Alexandre Kukui",
+      "Vincent Michoud",
+      "Manuela Cirtog",
+      "Mathieu Cazaunau",
+      "Astrid Bauville",
+      "Hichem Bouzidi",
+      "Paola Formenti",
+      "Cyrielle Denjean",
+      "Jean-Claude Etienne",
+      "Olivier Garrouste",
+      "Christopher Cantrell",
+      "Jos Lelieveld",
+      "John N. Crowley"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "25",
+    "pages": "5893-5909",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.atmosenv.2025.121114",
+    "title": "HONO chemistry affected by relative humidity and ammonia in the North China Plain during winter",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      5
+    ],
+    "authors": [
+      "Haiyan Ran",
+      "Jingwei Zhang",
+      "Yu Qu",
+      "Juan Yang",
+      "Yong Chen",
+      "Yele Sun",
+      "Chaoyang Xue",
+      "Yujing Mu",
+      "Junling An"
+    ],
+    "journal": "Atmospheric Environment",
+    "volume": "348",
+    "pages": "121114",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1038/s41467-025-59220-4",
+    "title": "Blockchain-based isotopic big data-driven tracing of global PM sources and interventions",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      4,
+      25
+    ],
+    "authors": [
+      "Yuming Huang",
+      "Xiangyu Li",
+      "Yuehan Wu",
+      "Chaoyang Xue",
+      "Jiashuo Li",
+      "Yongfeng Lin",
+      "Wei Nie",
+      "Xian Liu",
+      "Qian Liu",
+      "Greg Michalski",
+      "Jingwei Zhang",
+      "Zheng Zong",
+      "Dawei Lu",
+      "Guibin Jiang"
+    ],
+    "journal": "Nature Communications",
+    "volume": "16",
+    "pages": "3901",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.4c11647",
+    "title": "Role of Heterogeneous Reactions in the Atmospheric Oxidizing Capacity in Island Environments",
+    "year": 2025,
+    "publicationDateParts": [
+      2025,
+      1,
+      24
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Hui Chen",
+      "Max R. McGillen",
+      "Hang Su",
+      "Yafang Cheng",
+      "Jörg Kleffmann",
+      "Guo Li",
+      "Mathieu Cazaunau",
+      "Aurélie Colomb",
+      "Jean Sciare",
+      "Langley DeWitt",
+      "Nicolas Marchand",
+      "Roland Sarda-Esteve",
+      "Jean-Eudes Petit",
+      "Alexandre Kukui"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "59",
+    "pages": "3153-3164",
+    "kind": "research",
+    "roles": [
+      "第一作者",
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "科西嘉岛山顶观测揭示 HONO 白天偏高的日变化，现有参数化仍无法解释大部分日间来源。",
+      "光敏非均相反应可能被低估，凸显地表化学对岛屿环境 OH 自由基生成的重要作用。"
+    ],
+    "en": [
+      "Hilltop observations on Corsica reveal daytime HONO maxima and substantial formation missing from current parameterizations.",
+      "Underestimated photosensitized surface reactions may explain the gap, highlighting their importance for OH production in island environments."
+    ]
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2024.175168",
+    "title": "Improvement of model simulation for summer PM₂.₅ and O₃ through coupling with two new potential HONO sources in the North China Plain",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      11
+    ],
+    "authors": [
+      "Xiaoxi Zhao",
+      "Min Song",
+      "Xiujuan Zhao",
+      "Chaoyang Xue",
+      "Pengfei Liu",
+      "Can Ye",
+      "Xiaowei He",
+      "Yujing Mu",
+      "Bo Hu"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "950",
+    "pages": "175168",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-24-11603-2024",
+    "title": "Measurement report: Sources, sinks, and lifetime of NOₓ in a suburban temperate forest at night",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      10,
+      17
+    ],
+    "authors": [
+      "Simone T. Andersen",
+      "Max R. McGillen",
+      "Chaoyang Xue",
+      "Tobias Seubert",
+      "Patrick Dewald",
+      "Gunther N. T. E. Türk",
+      "Jan Schuladen",
+      "Cyrielle Denjean",
+      "Jean-Claude Etienne",
+      "Olivier Garrouste",
+      "Marina Jamar",
+      "Sergio Harb",
+      "Manuela Cirtog",
+      "Vincent Michoud",
+      "Mathieu Cazaunau",
+      "Antonin Bergé",
+      "Christopher Cantrell",
+      "Sebastien Dusanter",
+      "Bénédicte Picquet-Varrault",
+      "Alexandre Kukui",
+      "Abdelwahid Mellouki",
+      "Lucy J. Carpenter",
+      "Jos Lelieveld",
+      "John N. Crowley"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "24",
+    "pages": "11603-11618",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acsestair.4c00087",
+    "title": "Explainable Machine Learning Reveals the Unknown Sources of Atmospheric HONO during COVID-19",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      8,
+      27
+    ],
+    "authors": [
+      "Zhiwei Gao",
+      "Yue Wang",
+      "Sasho Gligorovski",
+      "Chaoyang Xue",
+      "LingLing Deng",
+      "Rui Li",
+      "Yusen Duan",
+      "Shan Yin",
+      "Lin Zhang",
+      "Qianqian Zhang",
+      "Dianming Wu"
+    ],
+    "journal": "ACS ES&T Air",
+    "volume": "1",
+    "pages": "1252-1261",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-24-8983-2024",
+    "title": "NO₃ reactivity during a summer period in a temperate forest below and above the canopy",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      8,
+      16
+    ],
+    "authors": [
+      "Patrick Dewald",
+      "Tobias Seubert",
+      "Simone T. Andersen",
+      "Gunther N. T. E. Türk",
+      "Jan Schuladen",
+      "Max R. McGillen",
+      "Cyrielle Denjean",
+      "Jean-Claude Etienne",
+      "Olivier Garrouste",
+      "Marina Jamar",
+      "Sergio Harb",
+      "Manuela Cirtog",
+      "Vincent Michoud",
+      "Mathieu Cazaunau",
+      "Antonin Bergé",
+      "Christopher Cantrell",
+      "Sebastien Dusanter",
+      "Bénédicte Picquet-Varrault",
+      "Alexandre Kukui",
+      "Chaoyang Xue",
+      "Abdelwahid Mellouki",
+      "Jos Lelieveld",
+      "John N. Crowley"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "24",
+    "pages": "8983-8997",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.4c02221",
+    "title": "Accurately Predicting Spatiotemporal Variations of Near-Surface Nitrous Acid (HONO) Based on a Deep Learning Approach",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      7,
+      23
+    ],
+    "authors": [
+      "Xuan Li",
+      "Can Ye",
+      "Keding Lu",
+      "Chaoyang Xue",
+      "Xin Li",
+      "Yuanhang Zhang"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "58",
+    "pages": "13035-13046",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2024.172336",
+    "title": "Impact of soil–atmosphere HONO exchange on concentrations of HONO and O₃ in the North China Plain",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      6
+    ],
+    "authors": [
+      "Haiyan Ran",
+      "Junling An",
+      "Jingwei Zhang",
+      "Junjie Huang",
+      "Yu Qu",
+      "Yong Chen",
+      "Chaoyang Xue",
+      "Yujing Mu",
+      "Xingang Liu"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "928",
+    "pages": "172336",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.4c01070",
+    "title": "Reducing Soil-Emitted Nitrous Acid as a Feasible Strategy for Tackling Ozone Pollution",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      5,
+      16
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Can Ye",
+      "Keding Lu",
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Hang Su",
+      "Fengxia Bao",
+      "Yafang Cheng",
+      "Wenjie Wang",
+      "Yuhan Liu",
+      "Valéry Catoire",
+      "Zhuobiao Ma",
+      "Xiaoxi Zhao",
+      "Yifei Song",
+      "Xuefei Ma",
+      "Max R. McGillen",
+      "Abdelwahid Mellouki",
+      "Yujing Mu",
+      "Yuanhang Zhang"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "58",
+    "pages": "9227-9235",
+    "kind": "research",
+    "roles": [
+      "第一作者",
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "田间通量观测与实验表明，施肥显著增强土壤 HONO 排放，并促进区域臭氧生成。",
+      "硝化抑制剂显示出降低 HONO、NOₓ 和 N₂O 排放的潜力，为农业源臭氧治理提供新思路。"
+    ],
+    "en": [
+      "Field flux measurements and experiments show that fertilization enhances soil HONO emissions and regional ozone production.",
+      "Nitrification inhibitors show potential to reduce HONO, NOₓ, and N₂O emissions, offering a route to address agricultural contributions to ozone pollution."
+    ]
+  },
+  {
+    "doi": "10.1021/acs.est.3c08810",
+    "title": "Rapid hydrolysis of NO₂ at High Ionic Strengths of Deliquesced Aerosol Particles",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      5,
+      7
+    ],
+    "authors": [
+      "Masao Gen",
+      "Haotian Zheng",
+      "Yele Sun",
+      "Wanyun Xu",
+      "Nan Ma",
+      "Hang Su",
+      "Yafang Cheng",
+      "Shuxiao Wang",
+      "Jia Xing",
+      "Shuping Zhang",
+      "Likun Xue",
+      "Chaoyang Xue",
+      "Yujing Mu",
+      "Xiao Tian",
+      "Atsushi Matsuki",
+      "Shaojie Song"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "58",
+    "pages": "7904-7915",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-24-4017-2024",
+    "title": "A large role of missing volatile organic compound reactivity from anthropogenic emissions in ozone pollution regulation",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      4,
+      4
+    ],
+    "authors": [
+      "Wenjie Wang",
+      "Bin Yuan",
+      "Hang Su",
+      "Yafang Cheng",
+      "Jipeng Qi",
+      "Sihang Wang",
+      "Wei Song",
+      "Xinming Wang",
+      "Chaoyang Xue",
+      "Chaoqun Ma",
+      "Fengxia Bao",
+      "Hongli Wang",
+      "Shengrong Lou",
+      "Min Shao"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "24",
+    "pages": "4017-4027",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1007/s11783-024-1790-y",
+    "title": "Underestimated benefits of NOₓ control in reducing SNA and O₃ based on missing heterogeneous HONO sources",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      3
+    ],
+    "authors": [
+      "Shuping Zhang",
+      "Haotian Zheng",
+      "Jun Liu",
+      "Yao Shi",
+      "Tianzeng Chen",
+      "Chaoyang Xue",
+      "Fenfen Zhang",
+      "Yueqi Jiang",
+      "Xiangping Zhang",
+      "Shovan Kumar Sahu",
+      "Biwu Chu",
+      "Jia Xing"
+    ],
+    "journal": "Frontiers of Environmental Science & Engineering",
+    "volume": "18",
+    "pages": "30",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.jes.2022.08.032",
+    "title": "A study on wildfire impacts on greenhouse gas emissions and regional air quality in South of Orléans, France",
+    "year": 2024,
+    "publicationDateParts": [
+      2024,
+      1
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Gisèle Krysztofiak",
+      "Yangang Ren",
+      "Min Cai",
+      "Patrick Mercier",
+      "Frédéric Le Fur",
+      "Corinne Robin",
+      "Benoit Grosselin",
+      "Véronique Daële",
+      "Max R. McGillen",
+      "Yujing Mu",
+      "Valéry Catoire",
+      "Abdelwahid Mellouki"
+    ],
+    "journal": "Journal of Environmental Sciences",
+    "volume": "135",
+    "pages": "521-533",
+    "kind": "research",
+    "roles": [
+      "第一作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "结合地面观测、卫星影像与后向轨迹，刻画法国奥尔良附近小规模野火的温室气体和污染物排放。",
+      "烟羽影响延伸至区域尺度，同时揭示不同火灾排放清单对小型火灾估算的明显偏差。"
+    ],
+    "en": [
+      "We characterize greenhouse gases and air pollutants from a small wildfire near Orléans using field observations, satellite imagery, and trajectories.",
+      "The plume affected regional air quality, while comparisons reveal substantial uncertainties in inventories of small-fire emissions."
+    ]
+  },
+  {
+    "doi": "10.5194/acp-23-15733-2023",
+    "title": "Measurement report: Exchange fluxes of HONO over agricultural fields in the North China Plain",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      12,
+      21
+    ],
+    "authors": [
+      "Yifei Song",
+      "Chaoyang Xue",
+      "Yuanyuan Zhang",
+      "Pengfei Liu",
+      "Fengxia Bao",
+      "Xuran Li",
+      "Yujing Mu"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "23",
+    "pages": "15733-15747",
+    "kind": "research",
+    "roles": [
+      "共同第一作者",
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "比较施肥与未施肥农田的 HONO 交换通量，发现施肥后数周排放显著增强。",
+      "获得夏玉米生长季排放因子，说明农业 HONO 排放对活性氮收支和区域氧化能力的重要性。"
+    ],
+    "en": [
+      "We compare HONO exchange over fertilized and unfertilized fields and observe strongly enhanced emissions for weeks after fertilization.",
+      "A growing-season emission factor quantifies fertilizer-derived HONO and its implications for reactive nitrogen budgets and regional oxidation."
+    ]
+  },
+  {
+    "doi": "10.5194/acp-23-15455-2023",
+    "title": "HONO chemistry at a suburban site during the EXPLORE-YRD campaign in 2018: formation mechanisms and impacts on O₃ production",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      12,
+      18
+    ],
+    "authors": [
+      "Can Ye",
+      "Keding Lu",
+      "Xuefei Ma",
+      "Wanyi Qiu",
+      "Shule Li",
+      "Xinping Yang",
+      "Chaoyang Xue",
+      "Tianyu Zhai",
+      "Yuhan Liu",
+      "Xuan Li",
+      "Yang Li",
+      "Haichao Wang",
+      "Zhaofeng Tan",
+      "Xiaorui Chen",
+      "Huabin Dong",
+      "Limin Zeng",
+      "Min Hu",
+      "Yuanhang Zhang"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "23",
+    "pages": "15455-15472",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/essd-15-4553-2023",
+    "title": "A database of aircraft measurements of carbon monoxide (CO) with high temporal and spatial resolution during 2011-2021",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      10,
+      12
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Gisèle Krysztofiak",
+      "Vanessa Brocchi",
+      "Stéphane Chevrier",
+      "Michel Chartier",
+      "Patrick Jacquet",
+      "Claude Robert",
+      "Valéry Catoire"
+    ],
+    "journal": "Earth System Science Data",
+    "volume": "15",
+    "pages": "4553-4569",
+    "kind": "data",
+    "roles": [
+      "第一作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "汇集 2011–2021 年跨欧洲、亚洲和非洲的机载 CO 观测，覆盖超过 200 小时飞行测量。",
+      "高时间分辨率数据揭示污染输送与垂直分布，并为大气模型及卫星观测验证提供依据。"
+    ],
+    "en": [
+      "We compile more than 200 flight hours of high-resolution CO measurements across Europe, Asia, and Africa during 2011–2021.",
+      "The dataset resolves pollution transport and vertical structure and supports evaluation of atmospheric models and satellite observations."
+    ]
+  },
+  {
+    "doi": "10.1021/acs.est.3c01823",
+    "title": "Soil Emissions of Reactive Nitrogen Accelerate Summertime Surface Ozone Increases in the North China Plain",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      8,
+      19
+    ],
+    "authors": [
+      "Wanshan Tan",
+      "Haolin Wang",
+      "Jiayin Su",
+      "Ruize Sun",
+      "Cheng He",
+      "Xiao Lu",
+      "Jintai Lin",
+      "Chaoyang Xue",
+      "Haichao Wang",
+      "Yiming Liu",
+      "Lei Liu",
+      "Lin Zhang",
+      "Dianming Wu",
+      "Yujing Mu",
+      "Shaojia Fan"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "57",
+    "pages": "12782-12793",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2023.163438",
+    "title": "Aging of pollution air parcels acts as the dominant source for nocturnal HONO",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      7
+    ],
+    "authors": [
+      "Wenjin Zhang",
+      "Yangang Ren",
+      "Chenglong Zhang",
+      "Pengfei Liu",
+      "Chaoyang Xue",
+      "Can Ye",
+      "Chengtang Liu",
+      "Jinhe Wang",
+      "Yuanyuan Zhang",
+      "Junfeng Liu",
+      "Yifei Song",
+      "Yinchang Feng",
+      "Yujing Mu"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "881",
+    "pages": "163438",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.3389/fenvs.2023.1221546",
+    "title": "Editorial: Physical and chemical processes within the planetary boundary layer and their impacts on air pollution",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      5,
+      23
+    ],
+    "authors": [
+      "Yucong Miao",
+      "Gen Zhang",
+      "Xiaolan Li",
+      "Chaoyang Xue"
+    ],
+    "journal": "Frontiers in Environmental Science",
+    "volume": "11",
+    "pages": "1221546",
+    "kind": "editorial",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1038/s41612-023-00357-8",
+    "title": "Atmospheric NOₓ oxidation as major sources for nitrous acid (HONO)",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      4,
+      11
+    ],
+    "authors": [
+      "Min Song",
+      "Xiaoxi Zhao",
+      "Pengfei Liu",
+      "Jichun Mu",
+      "Guangzhi He",
+      "Chenglong Zhang",
+      "Shengrui Tong",
+      "Chaoyang Xue",
+      "Xiujuan Zhao",
+      "Maofa Ge",
+      "Yujing Mu"
+    ],
+    "journal": "npj Climate and Atmospheric Science",
+    "volume": "6",
+    "pages": "30",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.2c09386",
+    "title": "Direct Observation of HONO Emissions from Real-World Residential Natural Gas Heating in China",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      3,
+      15
+    ],
+    "authors": [
+      "Xiang Ding",
+      "Cheng Huang",
+      "Wenyang Liu",
+      "Dongxiang Ma",
+      "Shengrong Lou",
+      "Qing Li",
+      "Jun Chen",
+      "Huinan Yang",
+      "Chaoyang Xue",
+      "Yafang Cheng",
+      "Hang Su"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "57",
+    "pages": "4751-4762",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.3c00086",
+    "title": "Transport Pathways of Nitrate Formed from Nocturnal N₂O₅ Hydrolysis Aloft to the Ground Level in Winter North China Plain",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      2,
+      1
+    ],
+    "authors": [
+      "Xiaoxi Zhao",
+      "Xiujuan Zhao",
+      "Pengfei Liu",
+      "Dan Chen",
+      "Chenglong Zhang",
+      "Chaoyang Xue",
+      "Junfeng Liu",
+      "Jing Xu",
+      "Yujing Mu"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "57",
+    "pages": "2715-2725",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2022.159905",
+    "title": "Nearly five-year continuous atmospheric measurements of black carbon over a suburban area in central France",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      2
+    ],
+    "authors": [
+      "El. Mehdi EL. Baramoussi",
+      "Yangang Ren",
+      "Chaoyang Xue",
+      "Ibrahim Ouchen",
+      "Véronique Daële",
+      "Patrick Mercier",
+      "Christophe Chalumeau",
+      "Frédéric L.E. Fur",
+      "Patrice Colin",
+      "Abderrazak Yahyaoui",
+      "Oliver Favez",
+      "Abdelwahid Mellouki"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "858",
+    "pages": "159905",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2022.160768",
+    "title": "Atmospheric ammonia in the rural North China Plain during wintertime: Variations, sources, and implications for HONO heterogeneous formation",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      2
+    ],
+    "authors": [
+      "Pengfei Liu",
+      "Hui Chen",
+      "Yifei Song",
+      "Chaoyang Xue",
+      "Can Ye",
+      "Xiaoxi Zhao",
+      "Chenglong Zhang",
+      "Junfeng Liu",
+      "Yujing Mu"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "861",
+    "pages": "160768",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acsenvironau.2c00048",
+    "title": "The Lack of HONO Measurement May Affect the Accurate Diagnosis of Ozone Production Sensitivity",
+    "year": 2023,
+    "publicationDateParts": [
+      2023,
+      1,
+      18
+    ],
+    "authors": [
+      "Pengfei Liu",
+      "Chaoyang Xue",
+      "Can Ye",
+      "Chengtang Liu",
+      "Chenglong Zhang",
+      "Jinhe Wang",
+      "Yuanyuan Zhang",
+      "Junfeng Liu",
+      "Yujing Mu"
+    ],
+    "journal": "ACS Environmental Au",
+    "volume": "3",
+    "pages": "18-23",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.envpol.2022.119967",
+    "title": "The seasonal variations and potential sources of nitrous acid (HONO) in the rural North China Plain",
+    "year": 2022,
+    "publicationDateParts": [
+      2022,
+      10
+    ],
+    "authors": [
+      "Yifei Song",
+      "Yuanyuan Zhang",
+      "Chaoyang Xue",
+      "Pengfei Liu",
+      "Xiaowei He",
+      "Xuran Li",
+      "Yujing Mu"
+    ],
+    "journal": "Environmental Pollution",
+    "volume": "311",
+    "pages": "119967",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2022.156997",
+    "title": "Strong impacts of biomass burning, nitrogen fertilization, and fine particles on gas-phase hydrogen peroxide (H₂O₂)",
+    "year": 2022,
+    "publicationDateParts": [
+      2022,
+      10
+    ],
+    "authors": [
+      "Can Ye",
+      "Chaoyang Xue",
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Zhuobiao Ma",
+      "Yuanyuan Zhang",
+      "Chengtang Liu",
+      "Junfeng Liu",
+      "Keding Lu",
+      "Yujing Mu"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "843",
+    "pages": "156997",
+    "kind": "research",
+    "roles": [
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "华北农村观测显示，生物质燃烧、施肥后土壤 HONO 排放和颗粒物过程均可增强气态 H₂O₂。",
+      "这些常被模型简化的来源影响区域氧化能力，提示需要更完整地描述农业活动与多相化学。"
+    ],
+    "en": [
+      "Rural observations identify biomass burning, fertilization-related HONO emissions, and particle chemistry as important contributors to H₂O₂.",
+      "These processes warrant better representation in models of regional oxidation and sulfate formation."
+    ]
+  },
+  {
+    "doi": "10.1021/acs.est.2c02237",
+    "title": "Substantially Growing Interest in the Chemistry of Nitrous Acid (HONO) in China: Current Achievements, Problems, and Future Directions",
+    "year": 2022,
+    "publicationDateParts": [
+      2022,
+      6,
+      8
+    ],
+    "authors": [
+      "Chaoyang Xue"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "56",
+    "pages": "7375-7377",
+    "kind": "viewpoint",
+    "roles": [
+      "唯一作者",
+      "通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "梳理中国 HONO 化学研究的进展，指出来源机制与观测、模型解释中的关键分歧。",
+      "建议加强垂直梯度和通量观测、实验室动力学及模型约束，以深化对污染环境 HONO 化学的认识。"
+    ],
+    "en": [
+      "This viewpoint examines progress in Chinese HONO research and unresolved questions about sources and their interpretation.",
+      "It calls for coordinated profile and flux measurements, laboratory kinetics, and improved modeling to constrain HONO chemistry in polluted environments."
+    ]
+  },
+  {
+    "doi": "10.5194/acp-22-3149-2022",
+    "title": "Atmospheric measurements at Mt. Tai – Part I: HONO formation and its role in the oxidizing capacity of the upper boundary layer",
+    "year": 2022,
+    "publicationDateParts": [
+      2022,
+      3,
+      9
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Can Ye",
+      "Jörg Kleffmann",
+      "Chenglong Zhang",
+      "Valéry Catoire",
+      "Fengxia Bao",
+      "Abdelwahid Mellouki",
+      "Likun Xue",
+      "Jianmin Chen",
+      "Keding Lu",
+      "Yong Zhao",
+      "Hengde Liu",
+      "Zhaoxin Guo",
+      "Yujing Mu"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "22",
+    "pages": "3149-3167",
+    "kind": "research",
+    "roles": [
+      "第一作者",
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "泰山山脚与山顶同步观测表明，山地输送及沿途表面反应可显著影响上边界层 HONO。",
+      "HONO 光解在山顶仍是重要 OH 来源，强调模型需考虑近地面化学与垂直交换的耦合。"
+    ],
+    "en": [
+      "Simultaneous measurements at the foot and summit of Mt. Tai link upper-boundary-layer HONO to vertical transport and mountain-surface chemistry.",
+      "HONO remains an important OH source aloft, highlighting the coupling between ground-level chemistry and vertical exchange."
+    ]
+  },
+  {
+    "doi": "10.5194/acp-22-1035-2022",
+    "title": "Atmospheric measurements at Mt. Tai – Part II: HONO budget and radical (ROₓ + NO₃) chemistry in the lower boundary layer",
+    "year": 2022,
+    "publicationDateParts": [
+      2022,
+      1,
+      21
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Can Ye",
+      "Jörg Kleffmann",
+      "Wenjin Zhang",
+      "Xiaowei He",
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Xiaoxi Zhao",
+      "Chengtang Liu",
+      "Zhuobiao Ma",
+      "Junfeng Liu",
+      "Jinhe Wang",
+      "Keding Lu",
+      "Valéry Catoire",
+      "Abdelwahid Mellouki",
+      "Yujing Mu"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "22",
+    "pages": "1035-1057",
+    "kind": "research",
+    "roles": [
+      "第一作者",
+      "共同通讯作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "利用泰山脚观测约束箱式模型，识别地表 NO₂ 非均相反应对 HONO 收支的重要贡献。",
+      "进一步量化日间 HONO 光解与夜间 NO₃ 化学，揭示低边界层氧化过程及其参数化敏感性。"
+    ],
+    "en": [
+      "An observation-constrained box model identifies ground-surface NO₂ reactions as major HONO sources at the foot of Mt. Tai.",
+      "The study quantifies daytime HONO photolysis and nighttime NO₃ chemistry, revealing key controls on lower-boundary-layer oxidation."
+    ]
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2021.149929",
+    "title": "High crop yield losses induced by potential HONO sources - A modelling study in the North China Plain",
+    "year": 2022,
+    "publicationDateParts": [
+      2022,
+      1
+    ],
+    "authors": [
+      "Jingwei Zhang",
+      "Haiyan Ran",
+      "Yitian Guo",
+      "Chaoyang Xue",
+      "Xingang Liu",
+      "Yu Qu",
+      "Yele Sun",
+      "Qiang Zhang",
+      "Yujing Mu",
+      "Yong Chen",
+      "Jing Wang",
+      "Junling An"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "803",
+    "pages": "149929",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.3390/atmos13010010",
+    "title": "Ambient BTEX Concentrations during the COVID-19 Lockdown in a Peri-Urban Environment (Orléans, France)",
+    "year": 2022,
+    "publicationDateParts": [
+      2022,
+      1
+    ],
+    "authors": [
+      "Min Cai",
+      "Yangang Ren",
+      "Rodrigo G. Gibilisco",
+      "Benoit Grosselin",
+      "Max R. McGillen",
+      "Chaoyang Xue",
+      "Abdelwahid Mellouki",
+      "Véronique Daële"
+    ],
+    "journal": "Atmosphere",
+    "volume": "13",
+    "pages": "10",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.1c04453",
+    "title": "Photochemical Aging of Atmospheric Fine Particles as a Potential Source for Gas-Phase Hydrogen Peroxide",
+    "year": 2021,
+    "publicationDateParts": [
+      2021,
+      10,
+      27
+    ],
+    "authors": [
+      "Pengfei Liu",
+      "Can Ye",
+      "Chenglong Zhang",
+      "Guangzhi He",
+      "Chaoyang Xue",
+      "Junfeng Liu",
+      "Chengtang Liu",
+      "Yuanyuan Zhang",
+      "Yifei Song",
+      "Xuran Li",
+      "Xinming Wang",
+      "Jianmin Chen",
+      "Hong He",
+      "Hartmut Herrmann",
+      "Yujing Mu"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "55",
+    "pages": "15063-15071",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-21-15809-2021",
+    "title": "Improving the representation of HONO chemistry in CMAQ and examining its impact on haze over China",
+    "year": 2021,
+    "publicationDateParts": [
+      2021,
+      10,
+      22
+    ],
+    "authors": [
+      "Shuping Zhang",
+      "Golam Sarwar",
+      "Jia Xing",
+      "Biwu Chu",
+      "Chaoyang Xue",
+      "Arunachalam Sarav",
+      "Dian Ding",
+      "Haotian Zheng",
+      "Yujing Mu",
+      "Fengkui Duan",
+      "Tao Ma",
+      "Hong He"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "21",
+    "pages": "15809-15826",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1029/2020jd033975",
+    "title": "Atmospheric Hydrogen Peroxide (H₂O₂) at the Foot and Summit of Mt. Tai: Variations, Sources and Sinks, and Implications for Ozone Formation Chemistry",
+    "year": 2021,
+    "publicationDateParts": [
+      2021,
+      8,
+      16
+    ],
+    "authors": [
+      "Can Ye",
+      "Chaoyang Xue",
+      "Chenglong Zhang",
+      "Zhuobiao Ma",
+      "Pengfei Liu",
+      "Yuanyuan Zhang",
+      "Chengtang Liu",
+      "Xiaoxi Zhao",
+      "Wenjin Zhang",
+      "Xiaowei He",
+      "Yifei Song",
+      "Junfeng Liu",
+      "Weihao Wang",
+      "Benhui Sui",
+      "Ran Cui",
+      "Xue Yang",
+      "Rubo Mei",
+      "Jianmin Chen",
+      "Yujing Mu"
+    ],
+    "journal": "Journal of Geophysical Research: Atmospheres",
+    "volume": "126",
+    "pages": "e2020JD033975",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.3389/fenvs.2021.652024",
+    "title": "Australian Fires 2019–2020: Tropospheric and Stratospheric Pollution Throughout the Whole Fire Season",
+    "year": 2021,
+    "publicationDateParts": [
+      2021,
+      7,
+      8
+    ],
+    "authors": [
+      "Corinna Kloss",
+      "Pasquale Sellitto",
+      "Marc von Hobe",
+      "Gwenaël Berthet",
+      "Dan Smale",
+      "Gisèle Krysztofiak",
+      "Chaoyang Xue",
+      "Chenxi Qiu",
+      "Fabrice Jégou",
+      "Inès Ouerghemmi",
+      "Bernard Legras"
+    ],
+    "journal": "Frontiers in Environmental Science",
+    "volume": "9",
+    "pages": "652024",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.1c00561",
+    "title": "Particle-Phase Photoreactions of HULIS and TMIs Establish a Strong Source of H₂O₂ and Particulate Sulfate in the Winter North China Plain",
+    "year": 2021,
+    "publicationDateParts": [
+      2021,
+      5,
+      21
+    ],
+    "authors": [
+      "Can Ye",
+      "Hui Chen",
+      "Erik H. Hoffmann",
+      "Peter Mettke",
+      "Andreas Tilgner",
+      "Lin He",
+      "Anke Mutzel",
+      "Martin Brüggemann",
+      "Laurent Poulain",
+      "Thomas Schaefer",
+      "Bernd Heinold",
+      "Zhuobiao Ma",
+      "Pengfei Liu",
+      "Chaoyang Xue",
+      "Xiaoxi Zhao",
+      "Chenglong Zhang",
+      "Fei Zhang",
+      "Hao Sun",
+      "Qing Li",
+      "Lin Wang",
+      "Xin Yang",
+      "Jinhe Wang",
+      "Cheng Liu",
+      "Chengzhi Xing",
+      "Yujing Mu",
+      "Jianmin Chen",
+      "Hartmut Herrmann"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "55",
+    "pages": "7818-7830",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.0c07170",
+    "title": "COVID-19-Induced Lockdowns Indicate the Short-Term Control Effect of Air Pollutant Emission in 174 Cities in China",
+    "year": 2021,
+    "publicationDateParts": [
+      2021,
+      4,
+      6
+    ],
+    "authors": [
+      "Dawei Lu",
+      "Jingwei Zhang",
+      "Chaoyang Xue",
+      "Peijie Zuo",
+      "Zigu Chen",
+      "Luyao Zhang",
+      "Weibo Ling",
+      "Qian Liu",
+      "Guibin Jiang"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "55",
+    "pages": "4094-4102",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acsearthspacechem.0c00314",
+    "title": "Evidence for Strong HONO Emission from Fertilized Agricultural Fields and its Remarkable Impact on Regional O₃ Pollution in the Summer North China Plain",
+    "year": 2021,
+    "publicationDateParts": [
+      2021,
+      1,
+      7
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Can Ye",
+      "Chenglong Zhang",
+      "Valéry Catoire",
+      "Pengfei Liu",
+      "Rongrong Gu",
+      "Jingwei Zhang",
+      "Zhuobiao Ma",
+      "Xiaoxi Zhao",
+      "Wenqian Zhang",
+      "Yangang Ren",
+      "Gisèle Krysztofiak",
+      "Shengrui Tong",
+      "Likun Xue",
+      "Junling An",
+      "Maofa Ge",
+      "Abdelwahid Mellouki",
+      "Yujing Mu"
+    ],
+    "journal": "ACS Earth and Space Chemistry",
+    "volume": "5",
+    "pages": "340-347",
+    "kind": "research",
+    "roles": [
+      "第一作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "农业与非农业站点同步观测显示，施肥后 HONO 与臭氧升高，为农田强 HONO 排放提供证据。",
+      "HONO 光解显著增强自由基生成，说明农业施肥可影响夏季区域光化学污染。"
+    ],
+    "en": [
+      "Concurrent agricultural and nonagricultural observations show enhanced HONO and ozone following fertilization in the North China Plain.",
+      "Strong radical production from HONO photolysis links fertilized soils to intensified summertime regional photochemistry."
+    ]
+  },
+  {
+    "doi": "10.1016/j.jes.2020.03.053",
+    "title": "Pollution levels, composition characteristics and sources of atmospheric PM₂.₅ in a rural area of the North China Plain during winter",
+    "year": 2020,
+    "publicationDateParts": [
+      2020,
+      9
+    ],
+    "authors": [
+      "Xiaoxi Zhao",
+      "Xiujuan Zhao",
+      "Pengfei Liu",
+      "Can Ye",
+      "Chaoyang Xue",
+      "Chenglong Zhang",
+      "Yuanyuan Zhang",
+      "Chengtang Liu",
+      "Junfeng Liu",
+      "Hui Chen",
+      "Jianmin Chen",
+      "Yujing Mu"
+    ],
+    "journal": "Journal of Environmental Sciences",
+    "volume": "95",
+    "pages": "172-182",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.jes.2020.05.003",
+    "title": "The pollution levels, variation characteristics, sources and implications of atmospheric carbonyls in a typical rural area of North China Plain during winter",
+    "year": 2020,
+    "publicationDateParts": [
+      2020,
+      9
+    ],
+    "authors": [
+      "Jinhe Wang",
+      "Shuyu Sun",
+      "Chongxu Zhang",
+      "Chaoyang Xue",
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Yujing Mu",
+      "Hai Wu",
+      "Defa Wang",
+      "Hui Chen",
+      "Jianmin Chen"
+    ],
+    "journal": "Journal of Environmental Sciences",
+    "volume": "95",
+    "pages": "256-265",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1021/acs.est.0c01832",
+    "title": "HONO Budget and Its Role in Nitrate Formation in the Rural North China Plain",
+    "year": 2020,
+    "publicationDateParts": [
+      2020,
+      8,
+      18
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Chenglong Zhang",
+      "Can Ye",
+      "Pengfei Liu",
+      "Valéry Catoire",
+      "Gisèle Krysztofiak",
+      "Hui Chen",
+      "Yangang Ren",
+      "Xiaoxi Zhao",
+      "Jinhe Wang",
+      "Fei Zhang",
+      "Chongxu Zhang",
+      "Jingwei Zhang",
+      "Junling An",
+      "Tao Wang",
+      "Jianmin Chen",
+      "Jörg Kleffmann",
+      "Abdelwahid Mellouki",
+      "Yujing Mu"
+    ],
+    "journal": "Environmental Science & Technology",
+    "volume": "54",
+    "pages": "11048-11057",
+    "kind": "research",
+    "roles": [
+      "第一作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "结合华北农村冬季观测与箱式模型，解析 HONO 来源及其对硝酸盐形成的作用。",
+      "HONO 光解主导初级 OH 生成，地表反应与 NO＋OH 共同维持日间 HONO 并促进气相硝酸盐生成。"
+    ],
+    "en": [
+      "We use winter observations and box modeling to resolve HONO sources and their role in nitrate formation in rural North China.",
+      "HONO photolysis dominates primary OH production, while surface reactions and NO + OH sustain daytime HONO and gas-phase nitrate formation."
+    ]
+  },
+  {
+    "doi": "10.1016/j.jes.2020.03.039",
+    "title": "Effect of potential HONO sources on peroxyacetyl nitrate (PAN) formation in eastern China in winter",
+    "year": 2020,
+    "publicationDateParts": [
+      2020,
+      8
+    ],
+    "authors": [
+      "Jingwei Zhang",
+      "Yitian Guo",
+      "Yu Qu",
+      "Yong Chen",
+      "Ruipeng Yu",
+      "Chaoyang Xue",
+      "Rui Yang",
+      "Qiang Zhang",
+      "Xingang Liu",
+      "Yujing Mu",
+      "Jing Wang",
+      "Can Ye",
+      "Haihan Zhao",
+      "Qiangqiang Sun",
+      "Ziwen Wang",
+      "Junling An"
+    ],
+    "journal": "Journal of Environmental Sciences",
+    "volume": "94",
+    "pages": "81-87",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-20-4153-2020",
+    "title": "Formation mechanisms of atmospheric nitrate and sulfate during the winter haze pollution periods in Beijing: gas-phase, heterogeneous and aqueous-phase chemistry",
+    "year": 2020,
+    "publicationDateParts": [
+      2020,
+      4,
+      7
+    ],
+    "authors": [
+      "Pengfei Liu",
+      "Can Ye",
+      "Chaoyang Xue",
+      "Chenglong Zhang",
+      "Yujing Mu",
+      "Xu Sun"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "20",
+    "pages": "4153-4165",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.atmosenv.2019.116821",
+    "title": "Strong photochemical reactions in greenhouses after fertilization and their implications",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      10
+    ],
+    "authors": [
+      "Jingwei Zhang",
+      "Chaoyang Xue",
+      "Danyun Wang",
+      "Yu Qu",
+      "Yong Chen",
+      "Yujing Mu",
+      "Yitian Guo",
+      "Jing Wang",
+      "Junling An"
+    ],
+    "journal": "Atmospheric Environment",
+    "volume": "214",
+    "pages": "116821",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2019.05.100",
+    "title": "Impacts of six potential HONO sources on HOₓ budgets and SOA formation during a wintertime heavy haze period in the North China Plain",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      9
+    ],
+    "authors": [
+      "Jingwei Zhang",
+      "Jianmin Chen",
+      "Chaoyang Xue",
+      "Hui Chen",
+      "Qiang Zhang",
+      "Xingang Liu",
+      "Yujing Mu",
+      "Yitian Guo",
+      "Danyun Wang",
+      "Yong Chen",
+      "Jialin Li",
+      "Yu Qu",
+      "Junling An"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "681",
+    "pages": "110-123",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.13227/j.hjkx.201902072",
+    "title": "典型华北农村地区冬季HONO的浓度水平及来源分析",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      9
+    ],
+    "authors": [
+      "王玉征",
+      "薛朝阳",
+      "张成龙",
+      "刘鹏飞",
+      "张圆圆",
+      "陈晖",
+      "陈建民",
+      "牟玉静",
+      "刘俊锋"
+    ],
+    "journal": "环境科学",
+    "volume": "40(9)",
+    "pages": "3973–3981",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.jes.2018.10.004",
+    "title": "Activity maintenance of the excised branches and a case study of NO₂ exchange between the atmosphere and P. nigra branches",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      6
+    ],
+    "authors": [
+      "Chun Chen",
+      "Yuzheng Wang",
+      "Yuanyuan Zhang",
+      "Xiaoxiu Lun",
+      "Chengtang Liu",
+      "Yujing Mu",
+      "Chenglong Zhang",
+      "Pengfei Liu",
+      "Chaoyang Xue",
+      "Min Song",
+      "Can Ye",
+      "Junfeng Liu"
+    ],
+    "journal": "Journal of Environmental Sciences",
+    "volume": "80",
+    "pages": "316-326",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.jes.2018.11.015",
+    "title": "The levels, sources and reactivity of volatile organic compounds in a typical urban area of Northeast China",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      5
+    ],
+    "authors": [
+      "Zhuobiao Ma",
+      "Chengtang Liu",
+      "Chenglong Zhang",
+      "Pengfei Liu",
+      "Can Ye",
+      "Chaoyang Xue",
+      "Di Zhao",
+      "Jichen Sun",
+      "Yiming Du",
+      "Fahe Chai",
+      "Yujing Mu"
+    ],
+    "journal": "Journal of Environmental Sciences",
+    "volume": "79",
+    "pages": "121-134",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2018.12.245",
+    "title": "Development and application of a twin open-top chambers method to measure soil HONO emission in the North China Plain",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      4
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Can Ye",
+      "Yuanyuan Zhang",
+      "Zhuobiao Ma",
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Xiaoxi Zhao",
+      "Junfeng Liu",
+      "Yujing Mu"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "659",
+    "pages": "621-631",
+    "kind": "research",
+    "roles": [
+      "第一作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "建立并评估双开顶箱方法，实现农田土壤 HONO 排放的直接测量。",
+      "外场应用揭示排放的日变化及施肥促进效应，为约束农业 HONO 源提供观测方法。"
+    ],
+    "en": [
+      "We develop and evaluate a twin open-top chamber method for direct measurements of soil HONO emissions.",
+      "Field applications reveal diurnal variability and fertilization-enhanced emissions, providing an observational approach to constrain agricultural HONO sources."
+    ]
+  },
+  {
+    "doi": "10.1016/j.atmosenv.2018.09.059",
+    "title": "A dual dynamic chamber system based on IBBCEAS for measuring fluxes of nitrous acid in agricultural fields in the North China Plain",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      1
+    ],
+    "authors": [
+      "Ke Tang",
+      "Min Qin",
+      "Jun Duan",
+      "Wu Fang",
+      "Fanhao Meng",
+      "Shuaixi Liang",
+      "Pinhua Xie",
+      "Jianguo Liu",
+      "Wenqing Liu",
+      "Chaoyang Xue",
+      "Yujing Mu"
+    ],
+    "journal": "Atmospheric Environment",
+    "volume": "196",
+    "pages": "10-19",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1016/j.scitotenv.2018.07.244",
+    "title": "Development of stripping coil-ion chromatograph method and intercomparison with CEAS and LOPAP to measure atmospheric HONO",
+    "year": 2019,
+    "publicationDateParts": [
+      2019,
+      1
+    ],
+    "authors": [
+      "Chaoyang Xue",
+      "Can Ye",
+      "Zhuobiao Ma",
+      "Pengfei Liu",
+      "Yuanyuan Zhang",
+      "Chenglong Zhang",
+      "Ke Tang",
+      "Wenqian Zhang",
+      "Xiaoxi Zhao",
+      "Yuzheng Wang",
+      "Min Song",
+      "Junfeng Liu",
+      "Jun Duan",
+      "Min Qin",
+      "Shengrui Tong",
+      "Maofa Ge",
+      "Yujing Mu"
+    ],
+    "journal": "Science of The Total Environment",
+    "volume": "646",
+    "pages": "187-195",
+    "kind": "research",
+    "roles": [
+      "第一作者"
+    ],
+    "hasSummary": true,
+    "zh": [
+      "开发吸收盘管—离子色谱 HONO 测量方法，评估吸收液选择与 SO₂ 干扰。",
+      "与 CEAS、LOPAP 等方法的外场比对支持其可靠性，并明确湿化学测量的适用条件。"
+    ],
+    "en": [
+      "We develop a stripping coil–ion chromatography method for HONO and evaluate collection efficiency and SO₂ interference.",
+      "Field comparisons with CEAS and LOPAP support its performance and define conditions for reliable wet-chemical measurements."
+    ]
+  },
+  {
+    "doi": "10.1021/acs.estlett.8b00579",
+    "title": "High H₂O₂ Concentrations Observed during Haze Periods during the Winter in Beijing: Importance of H₂O₂ Oxidation in Sulfate Formation",
+    "year": 2018,
+    "publicationDateParts": [
+      2018,
+      11,
+      6
+    ],
+    "authors": [
+      "Can Ye",
+      "Pengfei Liu",
+      "Zhuobiao Ma",
+      "Chaoyang Xue",
+      "Chenglong Zhang",
+      "Yuanyuan Zhang",
+      "Junfeng Liu",
+      "Chengtang Liu",
+      "Xu Sun",
+      "Yujing Mu"
+    ],
+    "journal": "Environmental Science & Technology Letters",
+    "volume": "5",
+    "pages": "757-763",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-17-11503-2017",
+    "title": "The contribution of residential coal combustion to atmospheric PM₂.₅ in northern China during winter",
+    "year": 2017,
+    "publicationDateParts": [
+      2017,
+      9,
+      27
+    ],
+    "authors": [
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Chaoyang Xue",
+      "Yujing Mu",
+      "Junfeng Liu",
+      "Yuanyuan Zhang",
+      "Di Tian",
+      "Can Ye",
+      "Hongxing Zhang",
+      "Jian Guan"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "17",
+    "pages": "11503-11520",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.1002/2016gl070075",
+    "title": "An important missing source of atmospheric carbonyl sulfide: Domestic coal combustion",
+    "year": 2016,
+    "publicationDateParts": [
+      2016,
+      8,
+      19
+    ],
+    "authors": [
+      "Qianqian Du",
+      "Chenglong Zhang",
+      "Yujing Mu",
+      "Ye Cheng",
+      "Yuanyuan Zhang",
+      "Chengtang Liu",
+      "Min Song",
+      "Di Tian",
+      "Pengfei Liu",
+      "Junfeng Liu",
+      "Chaoyang Xue",
+      "Can Ye"
+    ],
+    "journal": "Geophysical Research Letters",
+    "volume": "43",
+    "pages": "8720-8727",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  },
+  {
+    "doi": "10.5194/acp-16-10097-2016",
+    "title": "The possible contribution of the periodic emissions from farmers' activities in the North China Plain to atmospheric water-soluble ions in Beijing",
+    "year": 2016,
+    "publicationDateParts": [
+      2016,
+      8,
+      11
+    ],
+    "authors": [
+      "Pengfei Liu",
+      "Chenglong Zhang",
+      "Yujing Mu",
+      "Chengtang Liu",
+      "Chaoyang Xue",
+      "Can Ye",
+      "Junfeng Liu",
+      "Yuanyuan Zhang",
+      "Hongxing Zhang"
+    ],
+    "journal": "Atmospheric Chemistry and Physics",
+    "volume": "16",
+    "pages": "10097-10109",
+    "kind": "research",
+    "roles": [],
+    "hasSummary": false,
+    "zh": [],
+    "en": []
+  }
+]

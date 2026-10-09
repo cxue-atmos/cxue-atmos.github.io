@@ -1,69 +1,10 @@
 ---
-layout: single
-title: "薛朝阳 博士"
+layout: academic
+title: 薛朝阳
 permalink: /chinese/
-author_profile: true
+site_route: home
+initial_language: zh
 ---
-
-
-现工作于德国马克斯普朗克化学研究所（Max Planck Institute for Chemistry）。
-
-# 主要研究：
-
-- 活性氮化学
-- 生物圈-大气交换
-- 大气氧化性
-- 臭氧污染
-- 痕量气体浓度以及通量测量仪器研发
-
-# 研究方法
-
-- 野外观测
-- 实验室实验
-- 数值模拟
-- 机器学习
-
-# 教育与工作经历
-
-- Max Planck Institute for Chemistry
-
-# 代表项目与荣誉奖项
-
-- 国家青年人才项目（海外）
-- 洪堡学者
-- 玛丽居里学者
-
-# 学术任职
-
- - 青年编委：Environmental Science & Technology, Science Bulletin, Eco-Enviroment & Health
- - 编辑：Air Quality, Atmosphere & Health, Frontiers in Enviromental Science
- - 审稿：Nature Sustainibility, Science Advance, npj Climate and Atmospheric Science, Enviromental Science and Technology, Journal of Geophysical Research Atmospheres,  Atmospheric Chemistry and Physics, Atmospheric Environment, Environmental Science and Technology Letters, Journal of Environmental Science
-
-# 国际合作网络
-
-- 德国马普学会
-- 德国对流层研究所
-- 法国国家科学研究中心
-- 美国德州农工大学
-- 奥地利格拉茨大学
-- 摩洛哥穆罕默德六世理工大学
-
-# 国际研究平台
-
-- 科考船 S/Y Eugen Seibold，https://www.mpic.de/4224334/sy-eugen-seibold
-- 科考船 R/V Meteor，https://www.ldf.uni-hamburg.de/en/meteor.html
-- 亚马逊观测塔ATTO，https://www.attoproject.org/
-- 中科院农村环境研究站
-
-
-# 招生
-
-- 大气科学
-- 环境科学与工程
-- 化学
-- 农学
-- 等
-
-# 联系方式
-
-Email: ch.xue@mppic.de
+<section class="hero"><p class="eyebrow">大气化学 · 生物圈—大气交换</p><h1>探索地表与大气之间的<br><em>化学过程。</em></h1><p class="intro">我是薛朝阳，中国科学院大气物理研究所研究员。我的研究关注活性氮化学与生物圈—大气交换，探索这些过程如何影响大气氧化能力、空气质量和气候。</p><p class="intro">通过野外观测、实验室实验与大气模型，研究 HONO 来源及地表交换过程，并开发和应用大气成分与通量测量系统。</p><div class="hero-actions"><a href="/publications/" class="primary-link">查看研究论文 <span>↗</span></a><a href="/research/" class="text-link">研究方向 →</a></div></section>
+      <div class="research-strip"><div><span class="num">01</span><h3>活性氮化学</h3><p>HONO 来源、转化过程与大气氧化。</p></div><div><span class="num">02</span><h3>生物圈—大气交换</h3><p>土壤、生态系统与大气之间的化学交换。</p></div><div><span class="num">03</span><h3>观测与模型</h3><p>用仪器研发和外场观测约束大气化学过程。</p></div></div>
+      <section><div class="section-heading"><h2>近期论文</h2><a href="/publications/">全部论文 →</a></div><article class="pub"><div class="pub-year">2026</div><div><h3><a href="https://doi.org/10.5194/acp-26-5313-2026" target="_blank" rel="noopener noreferrer">Impacts of summertime photochemical aging on the physicochemical properties of aerosols in a Paris suburban forest region</a></h3><p class="pub-meta">Atmospheric Chemistry and Physics · 26, 5313–5332</p><div class="pub-links"><a href="https://doi.org/10.5194/acp-26-5313-2026" target="_blank" rel="noopener noreferrer">阅读论文 ↗</a></div></div></article><article class="pub"><div class="pub-year">2026</div><div><h3><a href="https://doi.org/10.1021/acs.est.5c17068" target="_blank" rel="noopener noreferrer">Remarkable Overestimation of Soil N₂O Emission by Using Static Chambers</a></h3><p class="pub-meta">Environmental Science &amp; Technology · 60, 8671–8680</p><div class="pub-links"><a href="https://doi.org/10.1021/acs.est.5c17068" target="_blank" rel="noopener noreferrer">阅读论文 ↗</a></div></div></article><article class="pub"><div class="pub-year">2026</div><div><div class="role">第一作者 · 共同通讯作者<span class="type">观点文章</span></div><h3><a href="https://doi.org/10.1021/acs.est.6c01723" target="_blank" rel="noopener noreferrer">Changing Emissions and Atmospheric Chemistry: Ongoing Impacts on Air Quality and Climate</a></h3><p class="pub-meta">Environmental Science &amp; Technology · 60, 5910–5920</p><div class="pub-summary"><p>讨论排放控制与能源转型如何改变二次气溶胶、活性氮和持久性污染物的环境过程。</p><p>提出连接排放变化、大气化学与环境暴露的研究重点，支撑空气质量和气候的协同评估。</p></div><div class="pub-links"><a href="https://doi.org/10.1021/acs.est.6c01723" target="_blank" rel="noopener noreferrer">阅读论文 ↗</a></div></div></article></section>

@@ -1,41 +1,8 @@
 ---
-layout: archive
+layout: academic
 title: "Publications"
 permalink: /publications/
-author_profile: true
+site_route: publications
+description: "Complete journal publication list of Chaoyang Xue, in reverse chronological order, with brief summaries for first- and corresponding-author papers."
 ---
-
-{% if site.author.googlescholar %}
-<div class="wordwrap">
-You can also find my articles on 
-<a href="{{site.author.googlescholar}}">Google Scholar</a>
-and
-<a href="https://www.researchgate.net/profile/Chaoyang-Xue-5">ResearchGate</a>.
-</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<div class="page-heading"><p class="eyebrow">PUBLICATIONS</p><h1>Publications</h1><p>All publications in reverse chronological order. First- and corresponding-author papers, including shared authorship, include brief summaries.</p><div class="year-nav">{% assign years = site.data.academic_publications | map: "year" | uniq %}{% for year in years %}<a href="/publications/#year-{{ year }}">{{ year }}</a>{% endfor %}</div></div>{% for p in site.data.academic_publications %}{% if forloop.first or p.year != previous_year %}<h2 class="pub-year-heading" id="year-{{ p.year }}">{{ p.year }}</h2>{% endif %}{% include academic-publication.html %}{% assign previous_year = p.year %}{% endfor %}

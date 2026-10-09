@@ -1,87 +1,13 @@
 ---
+layout: academic
+title: "About"
 permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
+site_route: home
+description: "Prof. Dr. Chaoyang Xue, Institute of Atmospheric Physics, Chinese Academy of Sciences. Atmospheric chemistry, reactive nitrogen and biosphere–atmosphere exchange."
+redirect_from:
   - /about/
   - /about.html
 ---
-
-
-I am an atmospheric chemist currently working as a Marie Curie Research Fellow at the Max Planck Institute for Chemistry in Mainz, Germany.
-
-My research focuses on:
-
-- Biosphere-atmosphere exchange
-- Reactive nitrogen chemistry
-- Atmospheric oxidation processes
-- Air quality and climate change
-
-I have developed multiple atmospheric measurement systems for:
-
-- ambient HONO observations
-- soil HONO flux measurements
-- biosphere-atmosphere exchange studies
-- aircraft and field observations
-
-My research combines:
-
-- field observations
-- laboratory experiments
-- atmospheric modeling
-- machine learning
-
----
-
-# Research Interests
-
-## HONO Chemistry
-
-Understanding the sources, sinks, and impacts of atmospheric HONO on air quality and atmospheric oxidation capacity.
-
-## Biosphere-Atmosphere Exchange
-
-Investigating interactions between ecosystems and atmospheric chemistry, including ocean, rainforest and agricultural systems.
-
-## Atmospheric Measurements
-
-Development and application of advanced measurement systems across multiple observational platforms.
-
-## Air Quality and Climate Change
-
-Exploring how reactive nitrogen and trace gases influence ozone pollution and climate processes.
-
----
-
-# Selected Research Platforms and Field Campaigns
-
-## Research Vessels
-
-### S/Y Eugen Seibold
-Research sailing vessel of the Max Planck Institute for Chemistry  
-https://www.mpic.de/4224334/sy-eugen-seibold
-
-### R/V Meteor
-German research vessel for ocean and atmospheric sciences  
-https://www.ldf.uni-hamburg.de/en/meteor.html
-
----
-
-## Atmospheric Observation Sites
-
-### Amazon Tall Tower Observatory (ATTO)
-Long-term Amazon rainforest atmosphere-biosphere observatory  
-https://www.attoproject.org/
-
-### Chinese Academy of Sciences Rural Environment Research Station
-North China Plain atmospheric and agricultural observation platform
-
-### ACROSS Forest Atmospheric Chemistry Campaign
-Suburban temperate forest atmospheric chemistry observations in France  
-https://across.cnrs.fr/
-
----
-
-# Contact
-
-Email: ch.xue@mpic.de
+<section class="hero"><p class="eyebrow">ATMOSPHERIC CHEMISTRY · BIOSPHERE–ATMOSPHERE EXCHANGE</p><h1>Understanding chemistry<br>at the <em>Earth–air interface.</em></h1><p class="intro">I am a Professor at the <b>Institute of Atmospheric Physics, Chinese Academy of Sciences</b>. My research explores how reactive nitrogen and biosphere–atmosphere exchange influence atmospheric oxidation, air quality, and climate.</p><p class="intro">I combine field observations, laboratory experiments, and atmospheric modeling, with a focus on HONO sources, surface exchange, and the development of atmospheric measurement systems.</p><div class="hero-actions"><a href="/publications/" class="primary-link">Explore publications <span>↗</span></a><a href="/research/" class="text-link">Research interests →</a></div></section>
+      <div class="research-strip"><div><span class="num">01</span><h3>Reactive nitrogen</h3><p>HONO sources, transformations, and atmospheric oxidation.</p></div><div><span class="num">02</span><h3>Biosphere–atmosphere exchange</h3><p>Chemical exchange across soils, ecosystems, and the atmosphere.</p></div><div><span class="num">03</span><h3>Measurements & modeling</h3><p>Instruments and field observations that constrain atmospheric chemistry.</p></div></div>
+      <section><div class="section-heading"><h2>Recent publications</h2><a href="/publications/">All publications →</a></div>{% for p in site.data.academic_publications limit:3 %}{% include academic-publication.html compact=true %}{% endfor %}</section>
