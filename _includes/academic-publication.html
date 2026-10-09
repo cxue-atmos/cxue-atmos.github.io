@@ -1,7 +1,7 @@
 <article class="pub"><div class="pub-year">{{ p.year }}</div><div>
 {% if p.hasSummary %}<div class="role">{% for role in p.roles %}{% case role %}{% when '第一作者' %}First author{% when '共同第一作者' %}Co-first author{% when '共同通讯作者' %}Co-corresponding author{% when '通讯作者' %}Corresponding author{% when '唯一作者' %}Sole author{% endcase %}{% unless forloop.last %} · {% endunless %}{% endfor %}<span class="type">{% case p.kind %}{% when 'viewpoint' %}Viewpoint{% when 'data' %}Data paper{% else %}Research article{% endcase %}</span></div>{% elsif p.kind == 'editorial' %}<div class="role">Editorial</div>{% endif %}
-<h3><a href="https://doi.org/{{ p.doi | escape }}" target="_blank" rel="noopener noreferrer">{{ p.title | escape }}</a></h3>
+<h3><a href="{{ p.publisherUrl | escape }}" target="_blank" rel="noopener noreferrer">{{ p.title | escape }}</a></h3>
 {% unless include.compact %}<p class="authors" style="margin:0 0 7px;max-width:none">{% for author in p.authors %}{% if author == 'Chaoyang Xue' or author == '薛朝阳' %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}; {% endunless %}{% endfor %}</p>{% endunless %}
 <p class="pub-meta">{{ p.journal | escape }} · {{ p.volume | escape }}, {{ p.pages | replace: '-', '–' | escape }}</p>
 {% if p.hasSummary %}<div class="pub-summary">{% for sentence in p.en %}<p>{{ sentence | escape }}</p>{% endfor %}</div>{% endif %}
-<div class="pub-links"><a href="https://doi.org/{{ p.doi | escape }}" target="_blank" rel="noopener noreferrer">Read paper ↗</a></div></div></article>
+<div class="pub-links"><a href="{{ p.publisherUrl | escape }}" target="_blank" rel="noopener noreferrer">Journal page ↗</a><a href="https://doi.org/{{ p.doi | escape }}" target="_blank" rel="noopener noreferrer">DOI ↗</a>{% if p.abstractUrl %}<a href="{{ p.abstractUrl | escape }}" target="_blank" rel="noopener noreferrer">PubMed abstract ↗</a>{% endif %}</div></div></article>

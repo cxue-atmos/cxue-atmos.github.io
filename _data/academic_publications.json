@@ -46,7 +46,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/26/5313/2026/"
   },
   {
     "doi": "10.1021/acs.est.5c17068",
@@ -78,7 +79,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.5c17068",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/41817426/"
   },
   {
     "doi": "10.1021/acs.est.6c01723",
@@ -112,7 +115,9 @@
     "en": [
       "We examine how emission controls and the energy transition reshape secondary aerosols, reactive nitrogen, and persistent pollutants.",
       "We identify research priorities connecting changing emissions, atmospheric chemistry, and exposure to inform air-quality and climate assessments."
-    ]
+    ],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.6c01723",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/41686083/"
   },
   {
     "doi": "10.1029/2025jd045346",
@@ -153,7 +158,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD045346"
   },
   {
     "doi": "10.1029/2025jd043667",
@@ -193,7 +199,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD043667"
   },
   {
     "doi": "10.1016/j.atmosenv.2025.121273",
@@ -218,7 +225,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1352231025002481"
   },
   {
     "doi": "10.1016/j.envpol.2025.126488",
@@ -248,7 +256,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0269749125008619",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/40398800/"
   },
   {
     "doi": "10.5194/acp-25-6991-2025",
@@ -286,7 +296,8 @@
     "en": [
       "We combine summer observations and box modeling to quantify H₂O₂ production and loss in rural North China.",
       "Particle uptake is a major sink; including it improves model agreement and clarifies oxidant responses to emission reductions."
-    ]
+    ],
+    "publisherUrl": "https://acp.copernicus.org/articles/25/6991/2025/"
   },
   {
     "doi": "10.5194/acp-25-5893-2025",
@@ -329,7 +340,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/25/5893/2025/"
   },
   {
     "doi": "10.1016/j.atmosenv.2025.121114",
@@ -357,7 +369,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1352231025000895"
   },
   {
     "doi": "10.1038/s41467-025-59220-4",
@@ -391,7 +404,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.nature.com/articles/s41467-025-59220-4",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/40274850/"
   },
   {
     "doi": "10.1021/acs.est.4c11647",
@@ -435,7 +450,9 @@
     "en": [
       "Hilltop observations on Corsica reveal daytime HONO maxima and substantial formation missing from current parameterizations.",
       "Underestimated photosensitized surface reactions may explain the gap, highlighting their importance for OH production in island environments."
-    ]
+    ],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.4c11647",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/39853330/"
   },
   {
     "doi": "10.1016/j.scitotenv.2024.175168",
@@ -463,7 +480,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S004896972405318X",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/39094653/"
   },
   {
     "doi": "10.5194/acp-24-11603-2024",
@@ -507,7 +526,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/24/11603/2024/"
   },
   {
     "doi": "10.1021/acsestair.4c00087",
@@ -538,7 +558,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acsestair.4c00087"
   },
   {
     "doi": "10.5194/acp-24-8983-2024",
@@ -581,7 +602,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/24/8983/2024/"
   },
   {
     "doi": "10.1021/acs.est.4c02221",
@@ -607,7 +629,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.4c02221",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/38982681/"
   },
   {
     "doi": "10.1016/j.scitotenv.2024.172336",
@@ -635,7 +659,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0048969724024793",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/38614350/"
   },
   {
     "doi": "10.1021/acs.est.4c01070",
@@ -683,7 +709,9 @@
     "en": [
       "Field flux measurements and experiments show that fertilization enhances soil HONO emissions and regional ozone production.",
       "Nitrification inhibitors show potential to reduce HONO, NOₓ, and N₂O emissions, offering a route to address agricultural contributions to ozone pollution."
-    ]
+    ],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.4c01070",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/38751196/"
   },
   {
     "doi": "10.1021/acs.est.3c08810",
@@ -719,7 +747,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.3c08810",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/38661303/"
   },
   {
     "doi": "10.5194/acp-24-4017-2024",
@@ -753,7 +783,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/24/4017/2024/"
   },
   {
     "doi": "10.1007/s11783-024-1790-y",
@@ -784,7 +815,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://link.springer.com/10.1007/s11783-024-1790-y"
   },
   {
     "doi": "10.1016/j.jes.2022.08.032",
@@ -824,7 +856,9 @@
     "en": [
       "We characterize greenhouse gases and air pollutants from a small wildfire near Orléans using field observations, satellite imagery, and trajectories.",
       "The plume affected regional air quality, while comparisons reveal substantial uncertainties in inventories of small-fire emissions."
-    ]
+    ],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S100107422200434X",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/37778824/"
   },
   {
     "doi": "10.5194/acp-23-15733-2023",
@@ -860,7 +894,8 @@
     "en": [
       "We compare HONO exchange over fertilized and unfertilized fields and observe strongly enhanced emissions for weeks after fertilization.",
       "A growing-season emission factor quantifies fertilizer-derived HONO and its implications for reactive nitrogen budgets and regional oxidation."
-    ]
+    ],
+    "publisherUrl": "https://acp.copernicus.org/articles/23/15733/2023/"
   },
   {
     "doi": "10.5194/acp-23-15455-2023",
@@ -898,7 +933,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/23/15455/2023/"
   },
   {
     "doi": "10.5194/essd-15-4553-2023",
@@ -934,7 +970,8 @@
     "en": [
       "We compile more than 200 flight hours of high-resolution CO measurements across Europe, Asia, and Africa during 2011–2021.",
       "The dataset resolves pollution transport and vertical structure and supports evaluation of atmospheric models and satellite observations."
-    ]
+    ],
+    "publisherUrl": "https://essd.copernicus.org/articles/15/4553/2023/"
   },
   {
     "doi": "10.1021/acs.est.3c01823",
@@ -969,7 +1006,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.3c01823",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/37596963/"
   },
   {
     "doi": "10.1016/j.scitotenv.2023.163438",
@@ -1001,7 +1040,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0048969723020570",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/37054793/"
   },
   {
     "doi": "10.3389/fenvs.2023.1221546",
@@ -1025,7 +1066,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1221546/full"
   },
   {
     "doi": "10.1038/s41612-023-00357-8",
@@ -1056,7 +1098,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.nature.com/articles/s41612-023-00357-8"
   },
   {
     "doi": "10.1021/acs.est.2c09386",
@@ -1087,7 +1130,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.2c09386",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/36919886/"
   },
   {
     "doi": "10.1021/acs.est.3c00086",
@@ -1116,7 +1161,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.3c00086",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/36722840/"
   },
   {
     "doi": "10.1016/j.scitotenv.2022.159905",
@@ -1147,7 +1194,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S004896972207005X",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/36343810/"
   },
   {
     "doi": "10.1016/j.scitotenv.2022.160768",
@@ -1175,7 +1224,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0048969722078718",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/36493819/"
   },
   {
     "doi": "10.1021/acsenvironau.2c00048",
@@ -1204,7 +1255,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acsenvironau.2c00048",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/37101842/"
   },
   {
     "doi": "10.1016/j.envpol.2022.119967",
@@ -1230,7 +1283,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0269749122011812",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/35981642/"
   },
   {
     "doi": "10.1016/j.scitotenv.2022.156997",
@@ -1267,7 +1322,9 @@
     "en": [
       "Rural observations identify biomass burning, fertilization-related HONO emissions, and particle chemistry as important contributors to H₂O₂.",
       "These processes warrant better representation in models of regional oxidation and sulfate formation."
-    ]
+    ],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0048969722040943",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/35777574/"
   },
   {
     "doi": "10.1021/acs.est.2c02237",
@@ -1297,7 +1354,9 @@
     "en": [
       "This viewpoint examines progress in Chinese HONO research and unresolved questions about sources and their interpretation.",
       "It calls for coordinated profile and flux measurements, laboratory kinetics, and improved modeling to constrain HONO chemistry in polluted environments."
-    ]
+    ],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.2c02237",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/35675543/"
   },
   {
     "doi": "10.5194/acp-22-3149-2022",
@@ -1340,7 +1399,8 @@
     "en": [
       "Simultaneous measurements at the foot and summit of Mt. Tai link upper-boundary-layer HONO to vertical transport and mountain-surface chemistry.",
       "HONO remains an important OH source aloft, highlighting the coupling between ground-level chemistry and vertical exchange."
-    ]
+    ],
+    "publisherUrl": "https://acp.copernicus.org/articles/22/3149/2022/"
   },
   {
     "doi": "10.5194/acp-22-1035-2022",
@@ -1385,7 +1445,8 @@
     "en": [
       "An observation-constrained box model identifies ground-surface NO₂ reactions as major HONO sources at the foot of Mt. Tai.",
       "The study quantifies daytime HONO photolysis and nighttime NO₃ chemistry, revealing key controls on lower-boundary-layer oxidation."
-    ]
+    ],
+    "publisherUrl": "https://acp.copernicus.org/articles/22/1035/2022/"
   },
   {
     "doi": "10.1016/j.scitotenv.2021.149929",
@@ -1416,7 +1477,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S004896972105004X",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/34478900/"
   },
   {
     "doi": "10.3390/atmos13010010",
@@ -1443,7 +1506,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.mdpi.com/2073-4433/13/1/10"
   },
   {
     "doi": "10.1021/acs.est.1c04453",
@@ -1478,7 +1542,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.1c04453",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/34705458/"
   },
   {
     "doi": "10.5194/acp-21-15809-2021",
@@ -1510,7 +1576,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/21/15809/2021/",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/34804135/"
   },
   {
     "doi": "10.1029/2020jd033975",
@@ -1549,7 +1617,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033975"
   },
   {
     "doi": "10.3389/fenvs.2021.652024",
@@ -1580,7 +1649,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2021.652024/full"
   },
   {
     "doi": "10.1021/acs.est.1c00561",
@@ -1627,7 +1697,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.1c00561",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/34019409/"
   },
   {
     "doi": "10.1021/acs.est.0c07170",
@@ -1656,7 +1728,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/esthag/article/55/7/4094/383313/COVID-19-Induced-Lockdowns-Indicate-the-Short-Term",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/33769804/"
   },
   {
     "doi": "10.1021/acsearthspacechem.0c00314",
@@ -1702,7 +1776,8 @@
     "en": [
       "Concurrent agricultural and nonagricultural observations show enhanced HONO and ozone following fertilization in the North China Plain.",
       "Strong radical production from HONO photolysis links fertilized soils to intensified summertime regional photochemistry."
-    ]
+    ],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acsearthspacechem.0c00314"
   },
   {
     "doi": "10.1016/j.jes.2020.03.053",
@@ -1733,7 +1808,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1001074220301340",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/32653177/"
   },
   {
     "doi": "10.1016/j.jes.2020.05.003",
@@ -1763,7 +1840,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1001074220301984",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/32653188/"
   },
   {
     "doi": "10.1021/acs.est.0c01832",
@@ -1810,7 +1889,9 @@
     "en": [
       "We use winter observations and box modeling to resolve HONO sources and their role in nitrate formation in rural North China.",
       "HONO photolysis dominates primary OH production, while surface reactions and NO + OH sustain daytime HONO and gas-phase nitrate formation."
-    ]
+    ],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.est.0c01832",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/32808764/"
   },
   {
     "doi": "10.1016/j.jes.2020.03.039",
@@ -1845,7 +1926,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1001074220301200",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/32563490/"
   },
   {
     "doi": "10.5194/acp-20-4153-2020",
@@ -1871,7 +1954,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/20/4153/2020/"
   },
   {
     "doi": "10.1016/j.atmosenv.2019.116821",
@@ -1899,7 +1983,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1352231019304509"
   },
   {
     "doi": "10.1016/j.scitotenv.2019.05.100",
@@ -1931,7 +2016,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0048969719321187",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/31102812/"
   },
   {
     "doi": "10.13227/j.hjkx.201902072",
@@ -1959,7 +2046,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.hjkx.ac.cn/hjkx/ch/html/20190914.htm",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/31854859/"
   },
   {
     "doi": "10.1016/j.jes.2018.10.004",
@@ -1990,7 +2079,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1001074217337002",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/30952349/"
   },
   {
     "doi": "10.1016/j.jes.2018.11.015",
@@ -2020,7 +2111,9 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1001074218319739",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/30784438/"
   },
   {
     "doi": "10.1016/j.scitotenv.2018.12.245",
@@ -2056,7 +2149,9 @@
     "en": [
       "We develop and evaluate a twin open-top chamber method for direct measurements of soil HONO emissions.",
       "Field applications reveal diurnal variability and fertilization-enhanced emissions, providing an observational approach to constrain agricultural HONO sources."
-    ]
+    ],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0048969718351167",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/31096391/"
   },
   {
     "doi": "10.1016/j.atmosenv.2018.09.059",
@@ -2086,7 +2181,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S1352231018306599"
   },
   {
     "doi": "10.1016/j.scitotenv.2018.07.244",
@@ -2130,7 +2226,9 @@
     "en": [
       "We develop a stripping coil–ion chromatography method for HONO and evaluate collection efficiency and SO₂ interference.",
       "Field comparisons with CEAS and LOPAP support its performance and define conditions for reliable wet-chemical measurements."
-    ]
+    ],
+    "publisherUrl": "https://www.sciencedirect.com/science/article/pii/S0048969718327359",
+    "abstractUrl": "https://pubmed.ncbi.nlm.nih.gov/30053664/"
   },
   {
     "doi": "10.1021/acs.estlett.8b00579",
@@ -2160,7 +2258,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://pubs.acs.org/doi/10.1021/acs.estlett.8b00579"
   },
   {
     "doi": "10.5194/acp-17-11503-2017",
@@ -2190,7 +2289,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/17/11503/2017/"
   },
   {
     "doi": "10.1002/2016gl070075",
@@ -2222,7 +2322,8 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL070075"
   },
   {
     "doi": "10.5194/acp-16-10097-2016",
@@ -2251,6 +2352,7 @@
     "roles": [],
     "hasSummary": false,
     "zh": [],
-    "en": []
+    "en": [],
+    "publisherUrl": "https://acp.copernicus.org/articles/16/10097/2016/"
   }
 ]
