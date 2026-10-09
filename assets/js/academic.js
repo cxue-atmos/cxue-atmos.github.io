@@ -49,7 +49,7 @@ sitemap: false
       const route=hash.startsWith('publications')?'publications':(['home','research','cv'].includes(hash)?hash:initialRoute);
       document.documentElement.lang=lang==='en'?'en':'zh-CN';
       const labels=lang==='en'?['About','Research','Publications','CV']:['关于','研究方向','论文','简历'];
-      document.querySelectorAll('[data-route]').forEach((a,i)=>{a.textContent=labels[i];a.classList.toggle('active',a.dataset.route===route);if(a.dataset.route===route)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
+      document.querySelectorAll('nav [data-route]').forEach((a,i)=>{a.textContent=labels[i];a.classList.toggle('active',a.dataset.route===route);if(a.dataset.route===route)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
       document.getElementById('language').textContent=t('中文','EN');
       document.getElementById('language').setAttribute('aria-label',t('Switch to Chinese','切换为英文'));
       document.getElementById('position').textContent=t('Professor','研究员');
