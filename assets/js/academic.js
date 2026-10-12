@@ -19,7 +19,7 @@ sitemap: false
       const citation = [p.journal, [p.volume,p.pages].filter(Boolean).join(', ')].filter(Boolean).join(' · ');
       const summary = p.hasSummary ? `<div class="pub-summary">${p[lang].map(s=>`<p>${escape(s)}</p>`).join('')}</div>` : '';
       const publisher = p.publisherUrl || 'https://doi.org/'+p.doi;
-      const links = `<a href="${escape(publisher)}" ${external}>${t('Journal page','期刊页面')} ↗</a><a href="https://doi.org/${escape(p.doi)}" ${external}>DOI ↗</a>${p.abstractUrl?`<a href="${escape(p.abstractUrl)}" ${external}>${t('PubMed abstract','PubMed 摘要')} ↗</a>`:''}`;
+      const links = `<a href="${escape(publisher)}" ${external}>${/\.pdf(?:[?#]|$)/i.test(publisher)?t('Journal PDF','期刊全文 PDF'):t('Journal page','期刊页面')} ↗</a><a href="https://doi.org/${escape(p.doi)}" ${external}>DOI ↗</a>${p.abstractUrl?`<a href="${escape(p.abstractUrl)}" ${external}>${t('PubMed abstract','PubMed 摘要')} ↗</a>`:''}`;
       return `<article class="pub"><div class="pub-year">${p.year}</div><div>${roles?`<div class="role">${escape(roles)}<span class="type">${type}</span></div>`:(p.kind==='editorial'?`<div class="role">${type}</div>`:'')}<h3><a href="${escape(publisher)}" ${external}>${escape(p.title)}</a></h3>${compact?'':`<p class="authors" style="margin:0 0 7px;max-width:none">${authors}</p>`}<p class="pub-meta">${escape(citation).replace(/-/g,'–')}</p>${summary}<div class="pub-links">${links}</div></div></article>`;
     }
     function home() {
