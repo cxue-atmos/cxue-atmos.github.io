@@ -45,12 +45,20 @@ sitemap: false
     function cv() {
       return `<div class="page-heading"><p class="eyebrow">${t('CURRICULUM VITAE','个人简历')}</p><h1>${t('Experience & education','工作与教育经历')}</h1><p>${t('Prof. Dr. Chaoyang Xue · Atmospheric chemistry','薛朝阳 · 大气化学')}</p></div><section class="cv-section"><h2>${t('Appointments','工作经历')}</h2>${cvRow(t('2026–present','2026–至今'),t('Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP-CAS)','中国科学院大气物理研究所（IAP-CAS）'),t('Professor · Beijing, China','研究员 · 中国北京'))}${cvRow('2023–2026',t('Max Planck Institute for Chemistry (MPIC)','马克斯·普朗克化学研究所（MPIC）'),t('Humboldt / Marie Curie Research Fellow · Mainz, Germany','洪堡／玛丽居里学者 · 德国美因茨'))}${cvRow('2020–2022',t('Laboratory of Physics and Chemistry of the Environment and Space, French National Centre for Scientific Research (LPC2E-CNRS)','法国国家科学研究中心环境与空间物理化学实验室（LPC2E-CNRS）'),t('Labex-Voltaire Research Fellow · Orléans, France','Labex-Voltaire 学者 · 法国奥尔良'))}</section><section class="cv-section"><h2>${t('Education','教育经历')}</h2>${cvRow('2014–2020',t('International Dual Ph.D. in Atmospheric Chemistry','大气化学联合博士'),t('Laboratory of Physics and Chemistry of the Environment and Space, French National Centre for Scientific Research (LPC2E-CNRS), France; Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences (RCEES-CAS), China','法国国家科学研究中心环境与空间物理化学实验室（LPC2E-CNRS）；中国科学院生态环境研究中心（RCEES-CAS）'))}${cvRow('2010–2014',t('B.Sc. in Environmental Science','环境科学学士'),t('China University of Petroleum, Beijing','中国石油大学（北京）'))}</section><section class="cv-section" id="academic-service"><h2>${t('Academic service','学术服务')}</h2><div class="service-group"><h3>${t('Editorial appointments','期刊任职')}</h3><ul class="service-list"><li><strong>Air Quality, Atmosphere &amp; Health</strong><span>${t('Associate Editor','副主编')}</span></li><li><strong>Environmental Science &amp; Technology (ES&amp;T)</strong><span>${t('Early Career Editorial Board Member','青年编委')}</span></li><li><strong>Eco-Environment &amp; Health</strong><span>${t('Young Editorial Board Member','青年编委')}</span></li><li><strong>Science Bulletin</strong><span>${t('Young Editorial Board Member','青年编委')}</span></li></ul></div><div class="service-group"><h3>${t('Peer review','同行评审')}</h3><p class="service-summary">${t('Peer reviewer for international journals, including Nature Sustainability, Science Advances (SA), Atmospheric Chemistry and Physics (ACP), Environmental Science &amp; Technology (ES&amp;T), Journal of Geophysical Research: Atmospheres (JGR), npj Climate and Atmospheric Science (npj-CAS), and Environmental Science &amp; Technology Letters (ES&amp;T Letters).','为 Nature Sustainability、Science Advances（SA）、Atmospheric Chemistry and Physics（ACP）、Environmental Science &amp; Technology（ES&amp;T）、Journal of Geophysical Research: Atmospheres（JGR）、npj Climate and Atmospheric Science（npj-CAS）、Environmental Science &amp; Technology Letters（ES&amp;T Letters）等国际期刊担任审稿人。')}</p><a class="text-link" href="https://orcid.org/0000-0001-6673-7716" ${external}>${t('Peer-review activity on ORCID','ORCID 公开审稿记录')} ↗</a></div></section><section class="cv-section"><h2>${t('Fellowships','学术资助')}</h2><ul class="funding"><li>Marie Skłodowska-Curie Actions</li><li>Alexander von Humboldt Fellowship</li><li>Labex-Voltaire Fellowship</li></ul></section>`;
     }
+    function join() {
+      const opportunities = [
+        ['Master’s, PhD & postdoctoral opportunities','硕士、博士与博士后','We recruit master’s students, PhD students, and postdoctoral researchers every year. Applicants from China and around the world are welcome.','课题组每年招收硕士研究生、博士研究生和博士后，欢迎国内外申请者加入。'],
+        ['Undergraduate internships','本科生实习','Outstanding undergraduate students are welcome to join us for research internships in atmospheric chemistry.','欢迎优秀本科生来课题组实习，参与大气化学相关科研工作。'],
+        ['Academic visits','学术访问','We welcome scholars from around the world for academic visits and research exchanges.','欢迎世界各地学者来访，开展学术交流与科研合作。']
+      ];
+      return `<div class="page-heading"><p class="eyebrow">${t('OPPORTUNITIES & EXCHANGE','招生招聘与学术交流')}</p><h1>${t('Join us','加入我们')}</h1><p>${t('Atmospheric chemistry · Institute of Atmospheric Physics, Chinese Academy of Sciences','大气化学 · 中国科学院大气物理研究所')}</p></div>${opportunities.map((item,i)=>`<section class="research-item"><span class="num">0${i+1}</span><div><h2>${t(item[0],item[1])}</h2><p>${t(item[2],item[3])}</p></div></section>`).join('')}<section class="join-contact"><h2>${t('Get in touch','欢迎联系')}</h2><p>${t('For enquiries about joining us or arranging a visit, please email Prof. Dr. Chaoyang Xue.','如有意申请或来访，欢迎通过邮件联系薛朝阳研究员。')}</p><a href="mailto:xuechaoyang@mail.iap.ac.cn">xuechaoyang@mail.iap.ac.cn ↗</a></section>`;
+    }
     function render(scroll=true) {
       const hash=location.hash.slice(1);
       const initialRoute=document.body.dataset.route || 'home';
-      const route=hash.startsWith('publications')?'publications':(['home','research','cv'].includes(hash)?hash:initialRoute);
+      const route=hash.startsWith('publications')?'publications':(['home','research','cv','join'].includes(hash)?hash:initialRoute);
       document.documentElement.lang=lang==='en'?'en':'zh-CN';
-      const labels=lang==='en'?['About','Research','Publications','CV']:['关于','研究方向','论文','简历'];
+      const labels=lang==='en'?['About','Research','Publications','CV','Join us']:['关于','研究方向','论文','简历','加入我们'];
       document.querySelectorAll('nav [data-route]').forEach((a,i)=>{a.textContent=labels[i];a.classList.toggle('active',a.dataset.route===route);if(a.dataset.route===route)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
       document.getElementById('language').textContent=t('中文','EN');
       document.getElementById('language').setAttribute('aria-label',t('Switch to Chinese','切换为英文'));
@@ -58,13 +66,13 @@ sitemap: false
       document.getElementById('affiliation').innerHTML=t('Institute of Atmospheric Physics<br>Chinese Academy of Sciences','中国科学院<br>大气物理研究所');
       document.getElementById('location').textContent=t('Beijing, China','中国 · 北京');
       document.getElementById('footer-affiliation').textContent=t('Institute of Atmospheric Physics, Chinese Academy of Sciences','中国科学院大气物理研究所');
-      main.innerHTML=({home,publications,research,cv})[route]();
+      main.innerHTML=({home,publications,research,cv,join})[route]();
       document.querySelectorAll('a[href^="/"]').forEach(a=>{
         const url=new URL(a.getAttribute('href'),location.origin);
         if(lang==='zh')url.searchParams.set('lang','zh');else url.searchParams.delete('lang');
         a.setAttribute('href',url.pathname+url.search+url.hash);
       });
-      document.title=t('Prof. Dr. Chaoyang Xue','薛朝阳')+' | '+labels[['home','research','publications','cv'].indexOf(route)];
+      document.title=t('Prof. Dr. Chaoyang Xue','薛朝阳')+' | '+labels[['home','research','publications','cv','join'].indexOf(route)];
       const yearMatch=hash.match(/^(?:publications-|year-)(\d{4})$/);
       if(yearMatch){requestAnimationFrame(()=>document.getElementById('year-'+yearMatch[1])?.scrollIntoView());}
       else if(scroll)window.scrollTo(0,0);
