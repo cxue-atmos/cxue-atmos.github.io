@@ -66,6 +66,7 @@ sitemap: false
       document.getElementById('affiliation').innerHTML=t('Institute of Atmospheric Physics<br>Chinese Academy of Sciences','中国科学院<br>大气物理研究所');
       document.getElementById('location').textContent=t('Beijing, China','中国 · 北京');
       document.getElementById('footer-affiliation').textContent=t('Institute of Atmospheric Physics, Chinese Academy of Sciences','中国科学院大气物理研究所');
+      document.getElementById('profile-note').innerHTML=t('ATMOSPHERIC CHEMISTRY<br>FIELD OBSERVATIONS<br>LABORATORY EXPERIMENTS<br>ATMOSPHERIC MODELING','大气化学<br>外场观测<br>实验室实验<br>模型模拟');
       main.innerHTML=({home,publications,research,cv,join})[route]();
       document.querySelectorAll('a[href^="/"]').forEach(a=>{
         const url=new URL(a.getAttribute('href'),location.origin);
