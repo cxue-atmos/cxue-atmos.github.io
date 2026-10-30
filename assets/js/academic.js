@@ -205,6 +205,20 @@ sitemap: false
         "url": "https://www.uni-graz.at/en/"
       }
     ]
+  },
+  {
+    "id": "brazil",
+    "en": "Brazil",
+    "zh": "巴西",
+    "code": "BR",
+    "institutions": [
+      {
+        "short": "USP",
+        "en": "University of São Paulo",
+        "zh": "圣保罗大学",
+        "url": "https://www5.usp.br/english/institutional/"
+      }
+    ]
   }
 ];
     function collaborations() {
