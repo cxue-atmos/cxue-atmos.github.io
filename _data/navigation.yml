@@ -5,6 +5,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "Collaborations"
+    url: /collaborations/
   - title: "CV"
     url: /cv/
   - title: "Join us"
