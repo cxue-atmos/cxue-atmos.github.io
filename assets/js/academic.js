@@ -191,6 +191,20 @@ sitemap: false
         "url": "https://www.utoronto.ca/"
       }
     ]
+  },
+  {
+    "id": "austria",
+    "en": "Austria",
+    "zh": "奥地利",
+    "code": "AT",
+    "institutions": [
+      {
+        "short": "Graz",
+        "en": "University of Graz",
+        "zh": "格拉茨大学",
+        "url": "https://www.uni-graz.at/en/"
+      }
+    ]
   }
 ];
     function collaborations() {
