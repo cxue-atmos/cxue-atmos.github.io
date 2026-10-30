@@ -77,6 +77,12 @@ sitemap: false
         "en": "University of Wuppertal",
         "zh": "伍珀塔尔大学",
         "url": "https://www.uni-wuppertal.de/en/"
+      },
+      {
+        "short": "Rostock",
+        "en": "University of Rostock",
+        "zh": "罗斯托克大学",
+        "url": "https://www.uni-rostock.de/en/"
       }
     ]
   },
@@ -108,22 +114,19 @@ sitemap: false
         "short": "ICARE-CNRS",
         "en": "Institute of Combustion, Aerothermics, Reactivity and Environment",
         "zh": "法国国家科学研究中心燃烧、气动热力学、反应与环境研究所",
-        "url": "https://icare.cnrs.fr/",
-        "paper": "https://acp.copernicus.org/articles/22/1035/2022/"
+        "url": "https://icare.cnrs.fr/"
       },
       {
         "short": "CNRM",
         "en": "National Centre for Meteorological Research",
         "zh": "法国国家气象研究中心",
-        "url": "https://www.cnrm.meteo.fr/en/homepage/",
-        "paper": "https://acp.copernicus.org/articles/24/11603/2024/"
+        "url": "https://www.cnrm.meteo.fr/en/homepage/"
       },
       {
         "short": "IMT Nord Europe",
         "en": "IMT Nord Europe",
         "zh": "法国北方矿业电信学院",
-        "url": "https://imt-nord-europe.fr/en/",
-        "paper": "https://acp.copernicus.org/articles/24/11603/2024/"
+        "url": "https://imt-nord-europe.fr/en/"
       }
     ]
   },
@@ -151,15 +154,48 @@ sitemap: false
         "short": "York",
         "en": "University of York",
         "zh": "约克大学",
-        "url": "https://www.york.ac.uk/chemistry/research/wacl/",
-        "paper": "https://acp.copernicus.org/articles/24/11603/2024/"
+        "url": "https://www.york.ac.uk/chemistry/research/wacl/"
+      },
+      {
+        "short": "Lancaster",
+        "en": "Lancaster University",
+        "zh": "兰卡斯特大学",
+        "url": "https://www.lancaster.ac.uk/lec/"
+      }
+    ]
+  },
+  {
+    "id": "switzerland",
+    "en": "Switzerland",
+    "zh": "瑞士",
+    "code": "CH",
+    "institutions": [
+      {
+        "short": "PSI",
+        "en": "Paul Scherrer Institute",
+        "zh": "保罗谢尔研究所",
+        "url": "https://www.psi.ch/en"
+      }
+    ]
+  },
+  {
+    "id": "canada",
+    "en": "Canada",
+    "zh": "加拿大",
+    "code": "CA",
+    "institutions": [
+      {
+        "short": "Toronto",
+        "en": "University of Toronto",
+        "zh": "多伦多大学",
+        "url": "https://www.utoronto.ca/"
       }
     ]
   }
 ];
     function collaborations() {
       const partner = item => `<article class="partner"><p class="partner-code">${escape(item.short)}</p><h3>${escape(t(item.en,item.zh))}</h3>${lang==='zh'?`<p class="partner-original">${escape(item.en)}</p>`:''}<div class="partner-links"><a href="${escape(item.url)}" ${external}>${t('Institution website','机构网站')} ↗</a></div></article>`;
-      return `<div class="page-heading"><p class="eyebrow">${t('RESEARCH ACROSS BORDERS','跨越国界的科研交流')}</p><h1>${t('International collaborations','国际合作')}</h1><p>${t('Connecting people, observations, and ideas.','连接学者、观测与科学思想。')}</p></div><div class="network-intro"><p>${t('Our international research network spans universities and institutes in Europe and North Africa. Research collaborations and joint publications bring together field observations, laboratory experiments, instrument development, and atmospheric modeling.','我们的国际科研网络连接欧洲与北非的高校和研究机构，通过科研合作与共同发表论文，汇集外场观测、实验室实验、仪器研发和大气模型模拟等研究方法。')}</p><nav class="country-index" aria-label="${t('Browse by country','按国家浏览')}">${collaborationCountries.map(country=>`<a href="/collaborations/#country-${country.id}"><span>${escape(t(country.en,country.zh))}</span><span class="country-count">${country.institutions.length}</span></a>`).join('')}</nav></div>${collaborationCountries.map(country=>`<section class="collaboration-country" id="country-${country.id}" aria-labelledby="country-title-${country.id}"><div class="country-heading"><span class="country-code" aria-hidden="true">${country.code}</span><h2 id="country-title-${country.id}">${escape(t(country.en,country.zh))}</h2></div><div class="partner-grid">${country.institutions.map(partner).join('')}</div></section>`).join('')}<section class="join-contact"><h2>${t('Connect with us','欢迎开展合作')}</h2><p>${t('We welcome opportunities for scientific exchange, joint research, and academic visits in atmospheric chemistry and surface–atmosphere exchange.','欢迎围绕大气化学与地表—大气交换开展学术交流、联合研究和学术访问。')}</p><a href="mailto:xuechaoyang@mail.iap.ac.cn">xuechaoyang@mail.iap.ac.cn ↗</a></section>`;
+      return `<div class="page-heading"><p class="eyebrow">${t('RESEARCH ACROSS BORDERS','跨越国界的科研交流')}</p><h1>${t('International collaborations','国际合作')}</h1><p>${t('Connecting people, observations, and ideas.','连接学者、观测与科学思想。')}</p></div><div class="network-intro"><p>${t('Our international research network connects universities and institutes around the world. Research collaborations and joint publications bring together field observations, laboratory experiments, instrument development, and atmospheric modeling.','我们的国际科研网络连接世界各地的高校和研究机构，通过科研合作与共同发表论文，汇集外场观测、实验室实验、仪器研发和大气模型模拟等研究方法。')}</p><nav class="country-index" aria-label="${t('Browse by country','按国家浏览')}">${collaborationCountries.map(country=>`<a href="/collaborations/#country-${country.id}"><span>${escape(t(country.en,country.zh))}</span><span class="country-count">${country.institutions.length}</span></a>`).join('')}</nav></div>${collaborationCountries.map(country=>`<section class="collaboration-country" id="country-${country.id}" aria-labelledby="country-title-${country.id}"><div class="country-heading"><span class="country-code" aria-hidden="true">${country.code}</span><h2 id="country-title-${country.id}">${escape(t(country.en,country.zh))}</h2></div><div class="partner-grid">${country.institutions.map(partner).join('')}</div></section>`).join('')}<section class="join-contact"><h2>${t('Connect with us','欢迎开展合作')}</h2><p>${t('We welcome opportunities for scientific exchange, joint research, and academic visits in atmospheric chemistry and surface–atmosphere exchange.','欢迎围绕大气化学与地表—大气交换开展学术交流、联合研究和学术访问。')}</p><a href="mailto:xuechaoyang@mail.iap.ac.cn">xuechaoyang@mail.iap.ac.cn ↗</a></section>`;
     }
     function cvRow(date,title,description){return `<div class="cv-row"><div class="date">${date}</div><div><h3>${title}</h3><p>${description}</p></div></div>`;}
     function cv() {
